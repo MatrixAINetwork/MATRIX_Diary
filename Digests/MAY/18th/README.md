@@ -1,4 +1,4 @@
-## PROOF OF APPROVAL (POA) - 可能是更好的区块链共识协议
+## PROOF OF APPROVAL (POA) - 可能是更好的区块链共识协议（连载一）
 
 ## Preface
 加密算法领域的神秘人物 Shunsai Takahashi (Twitter@shunsatakahashi) 提出了自己研究已久的全新共识协议 - Proof of Approval，在 bitcointalk 上引发热议
