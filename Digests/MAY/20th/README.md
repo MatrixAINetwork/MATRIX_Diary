@@ -18,7 +18,7 @@
 ## RTF Mining
 只有 RTF 超级节点可以挖矿。挖矿奖励以担保金的数额成正比。完成网络测试后将公布最低担保金额和处罚措施。
 
-## Funding plan
+## Funding Plan
 Stage1:2 500 000 美元，1RTF=0.25美元
 
 Stage2:6 000 000 美元，1RTF=0.30美元
