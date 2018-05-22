@@ -10,24 +10,20 @@ P2P/addnode/MN port : 9020
 Github --> https://github.com/linuxpaycoin/linuxpay.git
 Blockchain explorer --> https://linux-pay.com/explorer/
 
----------------------------------------------------
 ##WALLETS
 
 Windows x86-win32 -->  http://www.linux-pay.com/wallet/linuxpay-qt-x86.zip
 (UBUNTU )linuxpayd & linuxpay-cli -->  http://www.linux-pay.com/wallet/linuxpay-linux.tar.gz
 
----------------------------------------------------
 ##GUIDES
 
 Masternode setup script (COLD NODE )  --> http://www.linux-pay.com/guides/Linux-Pay_Coin_Bash_Installation_Script.pdf
 EXCHANGE --> PRESALE OPEN
 
----------------------------------------------------
 
 ##Rewards Breakdown
 
   Phase      Block Height       Reward   Masternodes    Stakers    Governance Max
-|------- |----------------   |---------|------------|-----------|------------------|
 |Phase 1 |0 -> 26000         | 100 LPC | 60 LPC     | 40 LPC    | 0 LPC            |
 |Phase 2 |26001 -> 100000    | 120 LPC | 72 LPC     | 48 LPC    | 0 LPC            |
 |Phase 3 |100001 -> 200000   | 88 LPC  | 66 LPC     | 22 LPC    | 0 LPC            |
