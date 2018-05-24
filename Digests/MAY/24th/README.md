@@ -60,20 +60,20 @@ Whitepaper:
 Social Media Links:
 
 - Facebook: https://www.facebook.com/SuchApp/
-- 
+
 - Twitter: https://twitter.com/such_app
-- 
+
 - LinkedIn: https://www.linkedin.com/company/suchapp/
-- 
+
 - Instagram: https://www.instagram.com/such_app/
-- 
+
 - Telegram: https://t.me/joinchat/FSt85A_iRaxy7sg7_UK-rA
-- 
+ 
 - Kakao: https://open.kakao.com/o/gRn1hzF
-- 
+
 - Reddit: https://www.reddit.com/r/SuchApp/
-- 
+
 - Discord: https://discordapp.com/invite/ecU3Sk8
-- 
+
 - YouTube: https://www.youtube.com/channel/UCekPGw-tzWg1awhtdO2kPpA  
 
