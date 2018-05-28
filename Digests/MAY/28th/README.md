@@ -4,7 +4,7 @@
 
 The United Fans Dapp brings teams owners, fans and players closer together.
 
-###Ability To Interact, Vote & Raise Capital Using Our Goal Coin
+### Ability To Interact, Vote & Raise Capital Using Our Goal Coin
 
 Leveraging blockchain technology, United Fans offers football fans the ability to purchase game tickets and merchandise, raise capital for their favorite teams, vote on club issues & even reward a player after a great game.
 
@@ -31,12 +31,12 @@ EARLY BIRD BONUS - Presale 50% bonus 1ETH = 6000
 ### Awesome Features
 
 
-#####Advantages For Users
+##### Advantages For Users
 
 Be very close with the manager, players and other fans of your favourite Football club in a secure and trusted ecosystem, directly accessible from your phone.
 
 
-#####Smart Contract Integration
+##### Smart Contract Integration
 
 The United Fans platform is integrated directly with Ethereum blockchain technology, which enables our users to cast their vote easily and make decisions safely while leveraging smart contracts.
 
@@ -46,7 +46,7 @@ The United Fans platform is integrated directly with Ethereum blockchain technol
 Use your United Fans Dapp to access and store your money securely, using two-factor authentication and other security verification methods
 
 
-#####Transparent Money Management and Ability To Organize A Reliable Democratic Voting System
+##### Transparent Money Management and Ability To Organize A Reliable Democratic Voting System
 
 
 
@@ -84,7 +84,7 @@ YouTube: https://www.youtube.com/channel/UCbCvAeZnslYoxYzDuLl-1MQ/videos
 
 ![](https://i.imgur.com/calhIjg.jpg)
 
-###WHO IS ORS?
+### WHO IS ORS?
 
 The ORS Group is a software company of more than 100 IT developers and scientists. It boasts over 20 years of experience in delivering sophisticated A.I.-based optimization software solutions to a large international client base (www.ors.ai).
  
@@ -93,30 +93,30 @@ Their new product, the Hypersmart Contracts provide access to more than 1,000 pr
 At ORS, we envision a global network of entrepreneurs and independent companies empowered by our ABC technology building blocks: Algorithms, Blockchain and Cryptocurrency.
 
 
-###VISION
+### VISION
 
 We aim to empower 1 billion new (small) entrepreneurs by 2040 by enabling them to compete with big corporations through access to A.I. and Blockchain technology. We at ORS, can foresee a future, in which within a few decades, robots and A.I. will run almost all businesses and unless our children become scientists, there will not be enough jobs for a population of almost 10 billion people. Brilliant minds like Stephen Hawking are worried that the owners of the robotic plants will not want to share the productivity gains and therefore a dystopian scenario might occur: a few giant corporations and extremely wealthy individuals will dominate and control almost all assets. We don't want this for our children! We envision instead a planet with billions of small, and independent companies trading and working together, coordinated through what we call the ABC building blocks of technologies: Algorithms, Blockchain, Cryptocurrency. Billions of entrepreneurs mean billions of financially independent people, free in their liife and free in their mind. This network of people will create a completely new social contract, a much better one and with much less unhealthy concentration of money and power. That's why ORS has entered the crypto space.
 
 
-###ORS INFO
+### ORS INFO
 
 ORS is an established company with a strong track record of delivering sophisticated software and A.I. solutions to demanding clients among the Fortune 2000 list. We have calculated that our software solutions save our clients over $1 billion on a yearly basis. For more information on our history and existing products please visit our website.
 We have already sold our the very first Hypersmart Contract to our partners at Eidoo. The Crypto-Robo-Advisor (video) is an A.I.-based Hypersmart Contract that takes into account every users’ investment preferences and risk profiles and on the basis of that makes portfolio rebalancing and diversification recommendations. Please check out what are partners said about the (agreement).
 
 We have successfully closed a pre-ICO round of EUR 10 million.
 
-###MARKET
+### MARKET
 
 We are making our A.I. and software optimization tools available to the global community through blockchain
 
-###BUSINESS MODEL
+### BUSINESS MODEL
 
 Any value chain is basically composed of three major flows: (i) the flow of goods/services; (ii) the flow of information; (iii) the flow of payments. ORS, thanks to its proprietary algorithms, is already able to “extract” extremely high efficiency — conditioned upon data availability — from the processes related to the movement of goods/services within a value chain, by synchronizing the activities of all the participants, even independent ones. However, the flows of information, documents and payments are still very slow, cumbersome, and somehow stuck in the past. With the introduction of blockchain technology we were able to share information in a trusted environment with smart contracts executing transactions without intermediaries. So, the concept of Hypersmart Contracts was born.
  
 Our Hypersmart Contracts are intelligent connectors, which activate A.I. algorithms (off-chain) to solve complex efficiency/optimization problems utilizing data stored on-chain by independent, decentralized organizations; and they can also release instant crypto payments. We are thus making all our algorithms and solutions available to the community at large – providing the ABC technology building blocks: Algorithms, Blockchain, and Cryptocurrency to entrepreneurs(explainer video).
  
 
-###ORS ICO & ORST TOKEN DISTRIBUTION
+### ORS ICO & ORST TOKEN DISTRIBUTION
 Token Issuer - ORS SA 
 
 Total Tokens in existence - 833,333,333 
@@ -149,7 +149,7 @@ Hard cap on the Token Sale - EUR 25 MILLION
 
 Minimum amount to be raised - EUR 5 MILLION (already reached in pre-ICO)
 
-###BUDGET ALLOCATION
+### BUDGET ALLOCATION
 
 65% - Development expenses (including Hypersmart Contracts, Platform and Marketplace)
 15% - G&A and Legal 
@@ -157,12 +157,12 @@ Minimum amount to be raised - EUR 5 MILLION (already reached in pre-ICO)
 5% - Investments (Hosting etc)
  
  
-###BONUS
+### BONUS
 
 5% Bonus for all Eidoo wallet users 
 Others - TBD
  
 
-###TIMELINE
+### TIMELINE
 ![](https://i.imgur.com/FsCQ3av.png)
 
