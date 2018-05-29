@@ -17,7 +17,7 @@ Premine: About 6.25% (~2 million) was premined to reserve for future development
 Galluscoin's block reward changes every 6-months as the following "Camel" distribution which is inspired by real-world mining production like of crude oil, coal etc.
 
 
-## Feautres
+## Features
 
 •Open Source
 
