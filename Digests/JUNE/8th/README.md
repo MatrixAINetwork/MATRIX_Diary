@@ -135,3 +135,10 @@ Stage: MVP, working proof of concept, deploying to testnet
 - Blockchain: Ethereum (ERC-20)
 - Currency Accepted: ETH
 
+### INTRODUCING THE NON-FUNGIBLE  TOKEN
+
+![](https://i.imgur.com/1HVG5Uh.png)
+
+### TOKEN DISTRIBUTION
+
+![](https://i.imgur.com/20zVAdA.png)
