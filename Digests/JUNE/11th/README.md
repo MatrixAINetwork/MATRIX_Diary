@@ -36,3 +36,11 @@ Yes. monvid is a decentralized Peer 2 Peer streaming platform.
 
 
 ![](https://i.imgur.com/RIR9Fk4.png)
+
+![](https://i.imgur.com/pp33QTN.png)
+
+![](https://i.imgur.com/qpfomu3.png)
+
+![](https://i.imgur.com/t0VqOsI.png)
+
+![](https://i.imgur.com/JZUiiXA.png)
