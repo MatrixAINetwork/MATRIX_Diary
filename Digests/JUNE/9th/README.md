@@ -29,3 +29,27 @@ The Airin development team is active, and goal oriented. The community is able t
 
 ![](https://i.imgur.com/Rj6EaFz.png)
 
+![](https://i.imgur.com/uXUSVKT.png)
+
+![](https://i.imgur.com/jFrcNJI.png)
+
+![](https://i.imgur.com/4BcaZ0P.png)
+
+![](https://i.imgur.com/UyNHNlV.png)
+ 
+[SOURCE CODE](https://github.com/airincoin/airin)
+
+[Website](https://airin.cc/)
+
+[Explorer](http://explore.airin.cc/)
+
+[White Paper](https://airin.cc/Airin_white_paper_v_1_0_1.pdf)
+
+[Twitter](https://twitter.com/airincoin)
+
+[Facebook](https://www.facebook.com/AirinOfficialPage/)
+
+[Instagram](https://www.instagram.com/airincoin/)
+
+
+[Telegram](https://t.me/airinofficial)
