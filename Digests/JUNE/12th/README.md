@@ -84,3 +84,48 @@ Official Blockchain Explorer - [http://explorer.artiqox.de:2750/](http://explore
 Minpool Explorer - [https://minpool.net/explorer/AIQ](https://minpool.net/explorer/AIQ)
 
 Angry Pool Explorer - [https://angrypool.com/explorer/AIQ](https://angrypool.com/explorer/AIQ)
+
+
+
+## [ANN] [CIC] Creative Innovations Coin | POW | Masternodes | x16s | Artplace 
+
+![](https://i.imgur.com/L0ykZus.jpg)
+
+
+
+![](https://i.imgur.com/72SRnws.png)
+
+We are a nexus of modern technology and art. A project meant for the creative people. For the people born to dream and inspire. For those who want to break free from the bureaucracy and social limits of the busy world. 
+
+In this world, the creative ones regularly collide with the lack of proper working conditions. Payment issues are common, while really interesting and challenging orders are hard to come by. Requests to redo the work due to random changes of plans/mood of the contractor add to the everyday stress. So do the questions of intellectual property management. From the side of a contractor, in turn, it is quite hard to find a specialist who can fulfill the order really good, and to negotiate mutual and transparent terms of contract. There’s always a risk that a freelancer will be lost from radar after he receives his prepayment. Or that the job will be done carelessly.
+
+Despite the fact that a host of services like freelance.com have existed for quite a time, both parties have difficulties in finding each other. The problems of search, quality control, reliability and trust have not gone anywhere. Aiming to solve these problems and optimize the communication between the Artist and the Contractor, we have designed an ecosystem that would allow fruitful and comfortable interaction - the world for the Creative, filled with Innovations - meet CIC, the Creative Innovations Coin!
+
+
+##### Links
+
+Website: [https://creativecoin.design/](https://creativecoin.design/)
+
+Discord: [https://discord.gg/ke5xtXN](https://discord.gg/ke5xtXN)
+
+Telegram: [https://t.me/joinchat/Ib7vMwxhr-Yzl3OL0LB_nw](https://t.me/joinchat/Ib7vMwxhr-Yzl3OL0LB_nw)
+
+Github: [https://github.com/Creative-Innovations-Coin/CIC-Core](https://github.com/Creative-Innovations-Coin/CIC-Core)
+
+
+![](https://i.imgur.com/16KCutH.png)
+
+![](https://i.imgur.com/PzNU683.jpg)
+
+![](https://i.imgur.com/vPvcqU2.png)
+
+![](https://i.imgur.com/vi3PyvD.jpg)
+
+![](https://i.imgur.com/XWFDEa7.png)
+
+![](https://i.imgur.com/gyDdfYd.jpg)
+
+![](https://i.imgur.com/KOPO4zM.png)
+
+![](https://i.imgur.com/UYn20l7.jpg)
+
