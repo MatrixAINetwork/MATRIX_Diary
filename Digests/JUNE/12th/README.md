@@ -129,3 +129,18 @@ Github: [https://github.com/Creative-Innovations-Coin/CIC-Core](https://github.c
 
 ![](https://i.imgur.com/UYn20l7.jpg)
 
+![](https://i.imgur.com/4toV6P3.png)
+
+The main purpose of the presale is to receive funds for fast listing on MNO and CryptoBridge exchange! 
+
+Masternode collateral is 100,000 CIC
+
+Price for each masternode is 0.6 BTC
+
+
+If you would like to buy: contact us in discord
+
+Artwood#4817 447353974023258112
+
+Bronwich#7205 420562744006279178
+
