@@ -57,3 +57,7 @@ The HMQ1725 algorithm favours personal computers, and is unfavourable to miners 
 10% of the coins mined with APoW will be stored in a special price stability fund. These coins will be issued through SouthXchange. Half of the bitcoin raised through this issuance will be used to back the price of Buenos against bitcoin. This will support the guaranteed 0% mining fee for the life of Buenos while stabilizing the price. The Buenos ecosystem takes a strong stance against an ICO, and will instead take a premine of the Buenos coin. 5% of the total Volume of Buenos will be sold into bitcoin in the first year, half of which will be backed against the price of Buenos and ensure long term stability and growth. Online Blockchain is a leading global blockchain and finance company, publicly listed in the UK. They will provide continuous development to meet the every-changing requirements of Argentina's people and economy. They will take a 15% premine of the total volume of the coin, which includes a continuous bounty campaign to promote interest and innovation on the platform. Most of the premine will be issued back into the community through SouthXchange issuance and the bounty campaign
 
 Online Blockchain will provide the globe's leading blockchain developers for the Buenos Core Team, and the infrastructure required to orchestrate such a large-scale project. They strive to guarantee the future of the Buenos Ecosystem.
+
+### GITHUB
+
+https://github.com/buenoscoin/buenoscoin
