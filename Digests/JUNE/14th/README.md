@@ -43,8 +43,99 @@ There exists already technologies capable of solving these issues on a mass scal
 
 Use the EarthCycle Coin to gather additional funds for current and future EC Businesses. Find and develop the leading edge of modern technologies across the world, facilitate the development of businesses to utilize these technologies, and then use the EC Center Pool and EC Voting platform to fund the propagation of enterprise solutions for the most major problems that plague our planet and species. 
 
+
+## CROPCOIN [CROP] |First Coin with Tiered Masternodes | PoS | Marketplace 
+
+![](https://i.imgur.com/b5OApMu.jpg)
+
+ ![](https://i.imgur.com/A8NuSF3.png)
+
+Cropcoin is a next generation Cryptographic currency.Cropcoin provides significant security and scalability advantages over other Cryptocurrencies.Cropcoin is backed by a Powerful,transaprent and secure Network.Based on PoS Masternodes Network,it ensures stable return of investment for stakers and masternode holders.
+
+We request the community to join us as developers,volunteers and investors seeking to enable a different paradigm for the Blockchain as a community.
+
+![](https://i.imgur.com/19gBwa5.png) 
+   
+
+◆ Darksend Mixing
+
+◆Instant Transactions
+
+◆Anonymous 
+
+◆Secure Network
  
 
- 
-   
- 
+![](https://i.imgur.com/Pf0QXA5.png)
+
+◆Algorithm Neoscrypt
+
+◆Blockreward According to Tiers
+
+◆Block Time 60 Seconds
+
+◆Max Supply 100 Million
+
+◆Masternodes Receive Rewards based on Tiers
+
+◆Stakers get 5 Crop
+
+◆2.5k,5k ,10k and 20k Tiers
+
+◆Premine* 2%
+
+Cropcoin has only 2% Premine that will be used only for Bounties,Airdrops,Exchange Listings and to continue further development for Cropcoin like upcoming DApps Integrations and much more as Listed in our Roadmap.Thanks
+
+Masternodes help to keep our Blockchain Secure and Enable support for Lightning fast transactions and Darksend Feature.You can choose any Tier to setup a Masternode.
+
+
+##### Masternode Tiers
+
+- 2.5K  25 Crop
+- 5k 60 Crop
+- 10k 140 Crop
+- 20k 300 Crop 
+
+
+![](https://i.imgur.com/OITyP9E.png)
+
+##### Cropcoin Blockchain Starts
+◆Launching Website
+
+◆Windows,Linux and Mac wallet Release
+
+◆Android and IOS Wallets
+
+
+##### Key Roadmap Points
+
+◆Cropcoin Whitepaper(Q2)
+
+◆Cropcoin Marketplace/Online Shopping Website(Q3)
+
+◆Masternode Tiers(Q3)
+
+◆DApps Integration and Smart Contracts(Q4)
+
+◆Payment Gateways
+
+◆Atomic Swaps(Q4)
+
+◆Quantum Resistant Algorithm(Q4)
+
+![](https://i.imgur.com/vPsNSc2.png)
+
+https://discord.gg/Vm5QVKM
+
+https://twitter.com/IamCropcoin
+
+
+Block explorer：https://cropcoin.blockxplorer.info/
+
+##### EXCHANGES
+
+
+https://wallet.crypto-bridge.org/market/BRIDGE.CROP_BRIDGE.BTC
+
+
+https://www.coinexchange.io/market/CROP/BTC
