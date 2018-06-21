@@ -2,8 +2,8 @@ Ask MATRIX第三期文字版如约而至，视频版已在YouTube播出。以下
 
 ![](https://i.imgur.com/j0Ku5JC.png)
 
-目前，我们的节点测试均在DELL R730上测试，1K TPS的交易基本能够满足要求。另外，可以采用集群方式，显著提升TPS。
-我们采用VU7P+ZU21DR 的FPGA开发板，在ZU 21 DR的arm A53运行，这样的条件下部署了2个矿工/1个验证者，不进行加密签名的条件下，能够达到50KTPS。
+目前，我们的节点测试均在DELL R730 上测试，1K TP S的交易基本能够满足要求。另外，可以采用集群方式显著提升TPS。
+我们采用 VU7P+ZU21DR 的FPGA开发板，在ZU 21 DR 的 ARM A53运行，这样的条件下部署了2个矿工/1个验证者，不进行加密签名的条件下，能够达到 50K TPS。
 
 
 ![](https://i.imgur.com/5NqJgPb.png)
