@@ -63,3 +63,11 @@ The price of the token (this value is used to simplify calculations) is $0.1.
 
 Thus, selling 6,200 PRT-2 units for 3 years, which is only slightly more than 7% of the market’s needs, we will send 
 USD 883 million to buy tokens from the exchange and increase its price supposedly 3,000 times.
+
+![](https://i.imgur.com/qBvRw1k.png)
+
+![](https://i.imgur.com/YObnePk.png)
+
+WHITEPAPER: [https://papusha.io/files/White_Paper_Papusha_ICO(v5-edit_18-06-18).pdf](https://papusha.io/files/White_Paper_Papusha_ICO(v5-edit_18-06-18).pdf)
+
+
