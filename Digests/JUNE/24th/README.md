@@ -11,3 +11,29 @@ Linux Wallet: [Download](https://github.com/zPools/sonoa/releases/download/2.0/S
 Source Code: [Github](https://github.com/zPools/sonoa/tree/2.0)
 
 1.4 Wallet for Swap: [1.4 Version Download](https://github.com/altcommunitycoin/SONO/releases)
+
+![](https://i.imgur.com/pz3yukM.png)
+
+Windows CPUminer: [Download](https://github.com/zPools/sonoa/releases/download/2.0/cpuminer.exe)
+
+Linux CPUminer: [Download](https://github.com/zPools/sonoa/releases/download/2.0/cpuminer-linux)
+
+Windows GPUminer: [Download](https://github.com/zPools/ccminer-sonoa/releases/download/1.0/ccminer.exe)
+
+![](https://i.imgur.com/gR0RDrT.png)
+
+new.zpools.de
+
+Umine.org
+
+MiningPatriot.com
+
+Pandapool.nl
+
+Mpool
+
+
+![](https://i.imgur.com/8VlFCND.png)
+
+https://bitzlato.com/trade/SONO/BTC 
+(Russian - Use automatic Google translation)
