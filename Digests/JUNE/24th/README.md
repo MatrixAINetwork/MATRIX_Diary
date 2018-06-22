@@ -37,3 +37,28 @@ Mpool
 
 https://bitzlato.com/trade/SONO/BTC 
 (Russian - Use automatic Google translation)
+
+##### Official Website
+
+https://projectsono.io/
+
+##### Official Twitter
+
+https://twitter.com/SonoProject
+
+
+##### Official Facebook
+https://www.facebook.com/ProjectSONO/
+
+##### Official Discord
+https://discord.gg/8bY2rjX
+
+##### Whitepaper
+http://bit.ly/2BfwIEn
+
+##### CoinMarketcap
+https://coinmarketcap.com/currencies/altcommunity-coin/
+
+##### Masternode Setup Tutorial
+
+https://github.com/buzzkillb/SONO-masternode
