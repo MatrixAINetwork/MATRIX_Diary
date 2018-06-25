@@ -67,5 +67,61 @@ ONLINE CLIENT: https://beta.wavesplatform.com/
 
 IOS CLIENT: https://itunes.apple.com/us/app/waves-wallet/id1233158971?mt=8
 
+ANDROID CLIENT: https://play.google.com/store/apps/details?id=com.wavesplatform.wallet
 
+##### How to create an account on Waves Platform in 1 minute:
+
+1) Go to https://beta.wavesplatform.com/create (online client)
+
+2) Choose your address avatar and receive your public account address.
+
+3) Add an account name and a password. Confirm the password.
+
+4) You must save the secret phrase (SEED). It is crucial for accessing your account. Click on "Back Up Now".
+
+5) Insert the saved secret phrase (SEED).
+
+6) Put the check. Confirm and begin.
+
+Now that you have an account on Waves Platform, you can trade any currency available in the decentralized exchange (Waves DEX) and store your tokens in the included wallet.
+
+##### Mission
+
+Angry Panda project aims to create an extremely solid cryptocurrency to protect the value of your investments during down trends and bear markets.
+
+
+##### Main goals
+
+•Creation of Angry Panda, a token with a limited price range: $1,000-$1,100
+
+•Getting listed on the most important exchanges
+
+•Creation of Angry Panda Exchange
+
+•Angry Panda token as universal method of payment for daily use
+
+
+##### Advantages
+
+###### Profit
+
+Investors could daily trade Angry Panda tokens with a 10% potential profit ($1,100/$1,000). During down trends your token will increase its value.
+
+###### Safety
+
+You can hodl your Angry Panda tokens without fear they will lose all their value: since they can’t go under 1,000$, your investments would be always safe during down trends and bear markets. Indeed, they will probably increase their value.
+
+###### Immediacy
+
+Angry Panda will make it easy to understand the minimum value of your investment, regardless of whether you are a small or a big investor. In fact:
+
+###### ROAR and Angry Panda tokens
+
+The main purpose of the ROAR token is to raise funds for the Angry Panda project and make it known. Therefore, the initial coin offering (ICO) will start at really cheap prices.
+
+The total supply of the ROAR tokens is 16,000,000: 15,000,000 for sell and 1,000,000 given as bounties. 
+
+While the total supply of Angry Panda token is 100,000,000: 16,000,000 ROAR (swap), 80,000,000 for sell and 4,000,000 given as bounties.
+
+###### Distribution - Graph and Table
 
