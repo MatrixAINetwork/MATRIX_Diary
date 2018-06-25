@@ -166,6 +166,16 @@ We are planning also for a possible token swap from Waves to ERC20 or the creati
 After the Round 10 and token swaps, we will start to sell Angry Panda tokens at a full price of $1,000.
 
 
-###### Bounties & Airdrops
+##### Bounties & Airdrops
 
 The amount of 5,000,000 tokens is reserved for bounties and airdrops: 1,000,000 ROAR tokens and 4,000,000 Angry Panda tokens. 
+
+##### Beware of scams
+
+- Check the exchanges where the tokens are listed: actually only on Waves DEX (Decentralized Exchange)
+- Check the name of the token you are buying, it must be ROAR and the Asset ID: 2yVPrfCZyhvZqXCi8A5v15ad7oQHqbcgGeBqTyEHTmuL
+- Angry Panda token - Asset ID: 6oih1oRR5urNRZeQgnAuekrAvMuUiW3iGsb6h12HwN9J - is not yet available for sale. Wait for the official announcement
+- Official Announcements are made only on www.angrypandacoin.com, Twitter and Telegram Channel
+- In order to claim any free tokens, you must type only your Waves account public address
+- Don't give your password, your private address or your secret backup phrase (SEED) to anyone! Never! If anyone has your password or SEED, they can steal your Waves and tokens! Be careful and avoid inputting your wallet information on any resources
+- We don't ask payments to give you something in return
