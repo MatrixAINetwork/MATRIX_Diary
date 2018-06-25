@@ -123,5 +123,49 @@ The total supply of the ROAR tokens is 16,000,000: 15,000,000 for sell and 1,000
 
 While the total supply of Angry Panda token is 100,000,000: 16,000,000 ROAR (swap), 80,000,000 for sell and 4,000,000 given as bounties.
 
-###### Distribution - Graph and Table
+###### ROAR tokens: 10 ICO rounds
 
+Our initial coin offering (ICO) of ROAR tokens will be spread in 10 rounds. It is a great opportunity to have a strong return on investment and it represents, in concrete terms, our gratitude to all those who will support the Angry Panda project since first steps.
+
+![](https://i.imgur.com/OKfarEd.png)
+
+
+###### Presale: Rounds 1-2-3-4
+
+During presale, ROAR tokens can be reserved through Waves DEX (Waves Decentralized Exchange) in whole amounts.
+
+Read the guide about how to buy in this phase: Presale
+
+It’s in your interest to buy during the first rounds to get more profit margins. 
+
+Keep in mind that quantities at best prices are very limited. First come, first served
+
+
+###### Rounds 5-6-7-8-9-10
+
+After presale, ROAR tokens will be sold directly on Waves DEX and prices fixed in USD, WAVES, BTC, ETH, EUR and more currencies. However you can always put a buy or sell order with any other currency present in Waves DEX: all pairs are available!
+
+You can find a step by step guide to buy ROAR tokens on Waves DEX on Get started page.
+
+Anyhow we are fully committed to you, so please contact us anytime with questions at info@angrypandacoin.com
+
+We also will start to list ROAR tokens on the most important exchanges.
+
+###### Token swap: from ROAR to Angry Panda
+
+A token swap could take place after the Round 10 or also before: for every ROAR token owned, you’ll receive an Angry Panda token. This process will be really simple: you’ll find the new pair ROAR/Angry Panda on Waves DEX to change all your ROAR tokens at a 1:1 rate. We will be announcing the start time of the token swap through announcement.
+
+
+###### Token swap: from Waves to ERC20
+
+We are planning also for a possible token swap from Waves to ERC20 or the creation of the same coin for dual-blockchain project (the existance on both the Waves and Ethereum blockchains). You may trade, buy or hold on to your current Waves-based tokens as usual without the need to do anything special at this time. We will be releasing a full instruction guide in future on how the process regarding the move from Waves to ERC20 will work.
+
+
+###### Angry Panda tokens
+
+After the Round 10 and token swaps, we will start to sell Angry Panda tokens at a full price of $1,000.
+
+
+###### Bounties & Airdrops
+
+The amount of 5,000,000 tokens is reserved for bounties and airdrops: 1,000,000 ROAR tokens and 4,000,000 Angry Panda tokens. 
