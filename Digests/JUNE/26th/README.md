@@ -21,3 +21,22 @@ Discord Link : https://discord.gg/mehdZBg
 ![](https://i.imgur.com/DjSBag5.png)
 
 
+##### ROADMAP
+
+![](https://i.imgur.com/zq0yrbk.png)
+
+###### ANODOS LINK
+
+
+    WALLET: https://github.com/anodoscoin/anodoscoin/releases
+    EXPLORER: http://up.anodoscoin.com/
+    WEBSITE: http://anodoscoin.com/
+    TWITTER: https://twitter.com/ANODOS15
+    GITHUB: https://github.com/anodoscoin/anodoscoin
+
+
+##### PRESALE INFO
+
+Price : 0.8 BTC, 10MN 
+
+LINK: https://discord.gg/bckMnnC
