@@ -40,3 +40,62 @@ To create and promote awareness among KitToken holders through airdrop and incen
 ##### Profits and network expansion
 
 To create unique high value projects which shall contribute to the kittoken owners' earning worth 3 to 5% annually.To expand the network of users by branding and aggressive promotion
+
+#### Features of KitToken
+
+- Secure and definite environment
+- Connects merchants and individuals
+- Low fees,fast and reliable transactions
+- Sharing of profit among holders
+- Strong asset backed business activities
+- Self-governing technology and global remittance
+
+#### Motivations of Kittoken
+
+##### Present Condition of Cash
+Cash remains the dominant force in any economy.It will have a change at all times. And this is what which paved way for the existence of an updates and new version of payment method the kitpay method.
+##### Necessity of KitPay 
+In future Kitpay technology can allow better development of financial transactions to meet he demand for new currencies. It enables faster and quicker as well as safer means of making payments.
+##### Crypto Regulations
+Convergence to digital currency  disruptive era is accepted by regional Asian Countries where most countries are developing regulatory guidelines for utilizing cryptocurrency as a mode of payment.
+
+
+#### Token Information
+
+- Token name     : KitToken
+
+- Symbol              : KIT
+
+- Decimal             : 18
+
+- Cost per token : $0.05
+
+- Total Supply          : 8 Billion
+
+
+- For Reserve           : 2.5 Billion
+
+- For sale                  : 3.5 Billion
+
+- Airdrop+Bonuses : 2 Billion
+
+- Contract Address :
+0x080eB7238031F97Ff011e273D6CaD5ad0c2dE532 
+
+#### ICO and Pre-sale information
+
+Early Bird sale event 
+
+20th to 25th July (Bonus 70%)
+
+26th to 31st July(Bonus 50%)
+
+ICO sale
+
+1st phase -August 1st to 10th (Bonus 30%)
+
+
+2nd phase-August 11th to 20th (Bonus 20%) 
+
+To participate in ICO please visit https://kittoken.net
+
