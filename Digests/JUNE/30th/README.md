@@ -47,12 +47,26 @@ Euno coins may be obtained in three different ways:
 - Min stake: 72 Hours
 
 #### Pow Rewards
-from block           1 - 250000 : 30 Euno
-from block  250000 - 750000 : 15 Euno
-from block 750000 - 1250000: 7  Euno
-from block 1250000- 2000000: 4  Euno
-from block 2000000- 4000000: 2  Euno
+- from block           1 - 250000 : 30 Euno
+- from block  250000 - 750000 : 15 Euno
+- from block 750000 - 1250000: 7  Euno
+- from block 1250000- 2000000: 4  Euno
+- from block 2000000- 4000000: 2  Euno
 
-PoS Rewards
+#### PoS Rewards
 from block     1: 5  Euno
 from block 10000: 50 Euno
+
+![](https://i.imgur.com/rwihu7K.jpg)
+
+
+![](https://i.imgur.com/GRBoSFn.jpg)
+
+https://pool.euno.co
+
+http://clutzykid.zapto.org
+
+
+![](https://i.imgur.com/Nu8ML8L.jpg)
+
+![](https://i.imgur.com/eLehjCZ.jpg)
