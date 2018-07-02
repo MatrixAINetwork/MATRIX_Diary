@@ -21,3 +21,14 @@
 - Block confirmation time: 8 seconds
 - Speed: from 1000 transactions per second
 - Commission: free of charge 
+
+#### Additional data
+
+- Cryptography: sha3, secp256k1
+- Protection against DDoS: PoW (hash calculation)
+- GitHub: https://github.com/terafoundation/wallet
+- Platform: Node.JS
+- Wallets: Windows (src/bin), MacOS (src only), Linux (src only)
+- Network launch: 01.07.2018 12:0:0 (UTC)
+- Mining launch: the next day after the finish of the launch xx.07.2018 12:0:0 (UTC)
+- Telegram: @TERA_Foundation
