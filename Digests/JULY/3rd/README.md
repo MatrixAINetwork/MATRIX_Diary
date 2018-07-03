@@ -87,3 +87,18 @@ by 25% every 500 000 blocks
 
   - Partner projects integration
   - Betcoin Payment Gateway
+
+#### Links
+https://betcoincore.com/  - Official Site
+
+http://45.32.154.146:3002/  - Explorer
+
+https://github.com/betcoincore/betcoin  - Github
+
+https://github.com/betcoincore/betcoin/releases  - Wallets
+
+https://t.me/betcoin_bet  - Telegram
+
+https://twitter.com/betcoin_bet  -Twitter
+
+https://discord.gg/9YGG3SW  -  Discord +Masternode presale
