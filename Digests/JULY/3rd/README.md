@@ -26,3 +26,64 @@ explore more on https://betcoincore.com/
 - Total Supply 200 000 000 
 - Premine    1 500 000 
 - Masternode Collateral 50 000 
+
+--------------------------------------------
+
+
+#### Block rewards:
+
+
+- 2 – 15 000  POW 5 
+- 15 001 – 75 000  POW 5 Masternodes 52,5 
+- 75 001– 150 000 POW 5 Masternodes 75 
+- 150 001– 500 000  POW 5 Masternodes 100 
+- 500 001– 750 000 POW 5 Masternodes 75 
+- 750 001– 1 000 000  1 000 001– 1 500 000 
+POW 5 Masternodes 35 1 500 000 
+- after block 1 500 001 decrease all rewards POW 5 x 0.75 POW 5 Masternodes х 0,75 
+by 25% every 500 000 blocks   
+
+#### Roadmap
+
+2018 Q3
+
+  - Launch Website
+  - Windows and Linux Wallet
+  - Coin Launch
+  - Airdrops and bounty campaigns
+  - Presale
+  - List on exchanges (tradesatoshi/ 
+    crypto-bridge/ graviex)
+  - List on masternodes monitor websites 
+    (masternodes.online/ mnrank.com/ etc)
+
+2018 Q4
+
+  - Betcoin Casino release
+  - Betcoin Lottery release
+  - Marketing and promotion company
+  - List on Coinmarketcap
+  - Android +MacOS+iOS wallets
+  - Whitepaper release
+
+2019 Q1
+
+  - Betcoin SportsBook Release
+  - Fantasy Sports Integration
+  - eSports Integration
+  - List on bigger exchanges (hitbtc/ 
+    cryptopia)
+  - Marketing and promotion company
+
+2019 Q2
+
+  - Rebranding Website
+  - Prediction market Release
+  - Multicurrency Support
+  - Paper Wallet
+  - Marketing and promotion company
+
+2019 Q3
+
+  - Partner projects integration
+  - Betcoin Payment Gateway
