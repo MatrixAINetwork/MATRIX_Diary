@@ -16,3 +16,8 @@
 - FACEBOOK: https://www.facebook.com/thehashkon
 
 - TWITTER: https://twitter.com/TheHashkon
+
+- WHITEPAPER: https://www.hashkon.com/Hashkon-Whitepaper.pdf
+
+- TELEGRAM: https://t.me/joinchat/IkYS4RKxCqi8uwE-dhm2Gg
+
