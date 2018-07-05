@@ -21,3 +21,6 @@
 
 - TELEGRAM: https://t.me/joinchat/IkYS4RKxCqi8uwE-dhm2Gg
 
+- INSTAGRAM: https://www.instagram.com/thehashkon/
+
+- WEBSITE: https://www.hashkon.com/
