@@ -69,5 +69,17 @@ Paying for a coffee, transferring a large balance or even paying for a VPN shoul
 
 #### Road Map:
 We are looking to implement bulletproofs as this would reduce the blockchain size and as well as reduce wallet load, exchanges will be happy!
+
 We also want to push out a mobile wallet to allow easy payments.
 Of course threat protection and security is our top priority as well.
+
+
+#### Community:
+- Discord: https://discord.gg/h86vs4g
+- Reddit: https://www.reddit.com/r/ElectroneumClassic/
+- Telegram: https://t.me/electroneumclassic
+
+#### Source:
+Github: https://github.com/vans163/electroneum-classic
+
+Currently only Ubuntu binary release are available with the cli wallet.
