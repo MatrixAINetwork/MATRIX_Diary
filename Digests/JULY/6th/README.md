@@ -78,3 +78,9 @@ Secondary Exchange Listing
 Electrum Wallet Integration
 
 Integration into Mobile platforms
+
+### Block Explorer
+https://cvmpool.pw/explorer/GRV
+
+###Peers
+https://cvmpool.pw/explorer/peers?id=2267
