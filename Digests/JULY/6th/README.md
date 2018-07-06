@@ -14,3 +14,14 @@ For example, if an organization has a 15% mark up on a product they have sold an
 
 
 In the first instance, GRV will be rolled out across a familiar DASH wallet platform, with plans to move to Electrum in the near future. With the growing community of GRV, we will be able to incorporate GRV across multiple wallet platforms currently active in the market place, or if necessary develop an easy to use application to bring Gravium to the masses.
+
+### Technical Specifications
+
+- Max supply: 18,921,600 + Swap from DSR
+- Block time: 1 minute
+- Block reward: 7 coins
+- Difficulty change: Every 16 blocks
+- Block reward: reduced by 1 coin at every 1.051.200 block until 3,153,599th block
+- Hashing algo: x16r
+- Pre mine: 1.5%
+- Payment structure: Pow 44.75% Masternodes 54.75% Dev wage 0.5%
