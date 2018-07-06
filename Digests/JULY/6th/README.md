@@ -25,3 +25,56 @@ In the first instance, GRV will be rolled out across a familiar DASH wallet plat
 - Hashing algo: x16r
 - Pre mine: 1.5%
 - Payment structure: Pow 44.75% Masternodes 54.75% Dev wage 0.5%
+
+### Links
+
+- Website: https://gravium.io
+- Explorer: https://explorer.gravium.io
+- Github: https://github.com/Gravium 
+
+
+### Social
+
+- Discord: https://discord.gg/uatrdjk
+- Facebook: https://facebook.com/Gravium-195401901186095/
+- Reddit: https://reddit.com/r/Gravium/
+- Twitter: https://twitter.com/graviumio
+- Telegram: https://t.me/graviumchat
+- Trello: https://trello.com/b/6XodXSUL/gravium
+
+### MN setup guide:
+
+[Masternode script setup guide](https://docs.google.com/document/d/1TNXbccH5wIG2r6ALWXKvTOyMU9UV_oZTuN9f6QsyZtA/edit)
+
+### Downloads
+
+[https://github.com/Gravium/gravium/releases](https://github.com/Gravium/gravium/releases)
+
+### Gravium Roadmap
+
+2018
+Q2
+
+GraviumCore – Complete
+
+GraviumCore Wallet-qt – Complete
+
+Mining Pool listings – Complete
+
+Masternode setup and GRV script – Complete
+
+Discord, Twitter, Facebook & Bitcointalk – Complete
+
+Website: https://gravium.io
+
+Cripto-bridge Listing – In progress
+
+Whitepaper – In progress
+
+Q3
+
+Secondary Exchange Listing
+
+Electrum Wallet Integration
+
+Integration into Mobile platforms
