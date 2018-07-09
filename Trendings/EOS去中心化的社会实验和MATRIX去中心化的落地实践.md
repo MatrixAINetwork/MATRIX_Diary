@@ -62,3 +62,8 @@ MATRIX基于团队技术基础的共识机制设计，简单而言，是在AI的
 
 MATRIX是基于人工智能的Hyper Pow 共识机制达成高并发的效果，整体架构是路由器模式。
 
+
+![](https://i.imgur.com/r968Q6V.png)
+
+MATRIX网络任务分发模型
+
