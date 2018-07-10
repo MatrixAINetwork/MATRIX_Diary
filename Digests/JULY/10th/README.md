@@ -34,3 +34,17 @@ Nano's mission is to become a global currency with instantaneous transactions an
 [CLICK HERE TO SEE WHERE YOU CAN TRADE NANO](https://coinmarketcap.com/currencies/nano/#markets)
 
 
+#### Roadmap:
+
+
+
+[CLICK HERE TO VIEW THE ROADMAP](https://developers.nano.org/roadmap)
+
+
+#### Community:
+
+- ![](https://twitter.com/nano)
+- [DISCORD](https://chat.nano.org/)
+- [GITHUB](https://github.com/nanocurrency)
+- [REDDIT](https://reddit.com/r/nanocurrency)
+- [MEDIUM](https://medium.com/@nanocurrency)
