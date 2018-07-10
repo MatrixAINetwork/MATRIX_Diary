@@ -10,3 +10,11 @@ Nano, formerly RaiBlocks (XRB), using its own block-lattice structure, wants to 
 
 Nano's mission is to become a global currency with instantaneous transactions and zero fees over a secure, decentralized network.
 
+
+#### Use-cases:
+
+- Ideal Trading Pair: Nano's instant and zero-fee transactions make it ideal for cryptocurrency traders.
+- Peer to Peer: Quickly pay friends and family using Nano, whether you're paying rent, or splitting a taxi fare or bill.
+- Micropayments: Use Nano to pay small amounts for digital asset rights, content subscriptions and more.
+- Business to Customer: Seamless checkouts are right around the corner with Nano, whether in store or online.
+
