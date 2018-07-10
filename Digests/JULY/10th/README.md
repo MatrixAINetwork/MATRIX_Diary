@@ -18,3 +18,8 @@ Nano's mission is to become a global currency with instantaneous transactions an
 - Micropayments: Use Nano to pay small amounts for digital asset rights, content subscriptions and more.
 - Business to Customer: Seamless checkouts are right around the corner with Nano, whether in store or online.
 
+#### Whitepaper:
+
+[CLICK HERE TO VIEW WHITEPAPER](https://nano.org/en/whitepaper)
+
+
