@@ -23,3 +23,14 @@ Nano's mission is to become a global currency with instantaneous transactions an
 [CLICK HERE TO VIEW WHITEPAPER](https://nano.org/en/whitepaper)
 
 
+#### Wallets:
+
+- [Web Wallet](https://nanowallet.io/)
+- [Mobile Wallet](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+- [Desktop Wallet](https://nanowalletcompany.com/)
+
+#### Exchanges:
+
+[CLICK HERE TO SEE WHERE YOU CAN TRADE NANO](https://coinmarketcap.com/currencies/nano/#markets)
+
+
