@@ -27,3 +27,12 @@ The phone is used as a controller. Offering complete flexibility, the app dashbo
 
 
 The X-Infinity App is available for Android and iOS!
+
+
+#### X-Infinity Debit Card
+
+The X-Infinity Debit Card is a standard-issue card. It is a universally accepted payment instrument, acting as a proxy to the “X-Infinity wallet” where consumers can securely store all their blockchain assets.
+
+The consumer can set the X-Infinity Debit Card to behave as any card they choose and set rules so the card can work without the phone. The experience to the user is straight-forward and simple, and provides increased utility and security.
+
+The card holds no data as it is ‘virtual gateway’ to the X-Infinity wallet. The wallet manages the accounts and identity credentials. The App controls which cryptocurrency asset is active when the X-Infinity Debit Card is presented to the merchant. The consumer can set rules within the App to dictate spending limits, which cards are used for certain retailers or product types, deactivation periods and much more. 
