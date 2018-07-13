@@ -50,3 +50,52 @@ Integration with payment services and bank cards.
 Q1 2019 🚀
 
 The launch of the project for the sale of tickets for planes, trains, taxis, car rental, tickets to the movies, theaters, concerts and other entertainment events for coin AXS.
+
+
+#### OFFICIAL PEERS LIST ADDNODE
+
+
+    addnode=95.163.106.119:33771
+    addnode=149.28.161.222:33771
+    addnode=45.63.114.114:33771
+    addnode=45.77.171.22:33771
+    addnode=207.148.123.87:33771
+    addnode=90.156.157.70:33771
+    addnode=45.32.43.39:33771
+    addnode=199.247.30.131:33771
+    addnode=217.69.4.206:33771
+    addnode=217.69.7.66:33771
+    addnode=45.76.112.143:33771
+    addnode=45.32.147.196:33771
+    addnode=90.156.139.81:33771
+    addnode=45.77.21.139:33771
+    addnode=217.69.2.81:33771
+    addnode=199.247.1.198:33771
+    addnode=202.182.117.253:33771
+    addnode=149.28.166.7:33771
+    addnode=95.179.149.159:33771
+    addnode=108.61.167.34:33771
+
+![](https://i.imgur.com/bYNqnuc.png)
+
+
+
+Website: https://axs.gold
+
+Block Explorer: http://explorer.axs.gold:3001
+
+Twitter: https://twitter.com/axs_gold
+
+Telegram channel: https://t.me/axsgold
+
+Discord: https://discord.gg/p7NtVS2
+
+Github: https://github.com/axsgold
+
+Youtube: https://www.youtube.com/channel/UCShaUU2ybLKW7tbL-dIm3jQ
+
+![](https://i.imgur.com/ASOExzk.png)
+
+CRYPTO-BRIDGE
+
+https://wallet.crypto-bridge.org/market/BRIDGE.AXS_BRIDGE.BTC
