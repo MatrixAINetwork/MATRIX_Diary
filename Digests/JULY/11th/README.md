@@ -52,3 +52,74 @@ Transactions are anticipated to occur in the following way:
 5. Upon receiving the corresponding amount for the invoice, XIF will authorize the payment to the merchant
 
 Wallet proprietary technology allows X-Infinity to conduct more than 20,000 transactions per second, with average transaction confirmation time of 1 second and average transaction fee of USD$0.10 for every 200 transaction.
+
+
+#### Value Proposition
+
+Consumers
+
+Low cost to consumer
+Ability to lock card reduces risk of fraud
+Potential for real–time payment insights and offers
+Send and receive any amount of money, instantly anywhere in the world, at any time
+A frictionless experience as the X-Infinity Debit Card provides standard payment functionality
+Cross chain payment channels ensure consumers can make payments using any cryptocurrency in their wallet
+Private with no customer personal information at risk with control of financial identity
+Unlimited blockchain accounts in a single wallet profile
+Control of financial identity
+
+
+
+Merchants
+
+Instant payment
+ATM-level security for transactions
+Potential for loyalty integration and business intelligence
+Data insight - Preserves loyalty with a compelling, cool solution
+No new learned skills needed with no behaviour change needed
+No new POS hardware needed as card is used for transactions
+Low cost compared to other payment processors
+No merchant account needed
+
+
+#### XIF Coin and Distribution
+
+
+To facilitate content creators and consumers on the X-Infinity blockchain, as well as incentivise other ecosystem stakeholders, X Infinity is planning a blockchain solution powered by the XIF Coin. X-Infinity will be issuing XIF in a Coin Generation Event.
+
+
+Total Coin Supply: 600 million XIF
+
+Hard Cap: USD 24 million
+
+
+Pre-ICO Round (Ongoing)
+
+Allocation: USD 12 million
+
+Bonus Coin: 5%
+
+Accepted Currencies: ETH & BTC
+
+XIF Coin to USD rate: 1 XIF = US$0.10
+
+Coin Issuance For This Round: 126 million XIF
+
+Minimum Contribution: 1 ETH
+
+
+ICO Round
+
+Allocation: USD 6 million
+
+ICO Date:  8 August 2018
+
+Bonus Coin: NIL
+
+Accepted Currencies: ETH & BTC
+
+XIF Coin to USD rate: 1 XIF = US$0.10
+
+Coin Issuance For This Round: 60 million XIF
+
+Maximum Contribution: 0.5 ETH
