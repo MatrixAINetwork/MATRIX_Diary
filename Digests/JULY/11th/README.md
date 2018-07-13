@@ -35,4 +35,20 @@ The X-Infinity Debit Card is a standard-issue card. It is a universally accepted
 
 The consumer can set the X-Infinity Debit Card to behave as any card they choose and set rules so the card can work without the phone. The experience to the user is straight-forward and simple, and provides increased utility and security.
 
-The card holds no data as it is ‘virtual gateway’ to the X-Infinity wallet. The wallet manages the accounts and identity credentials. The App controls which cryptocurrency asset is active when the X-Infinity Debit Card is presented to the merchant. The consumer can set rules within the App to dictate spending limits, which cards are used for certain retailers or product types, deactivation periods and much more. 
+The card holds no data as it is ‘virtual gateway’ to the X-Infinity wallet. The wallet manages the accounts and identity credentials. The App controls which cryptocurrency asset is active when the X-Infinity Debit Card is presented to the merchant. The consumer can set rules within the App to dictate spending limits, which cards are used for certain retailers or product types, deactivation periods and much more.
+
+#### Transaction Management
+
+Transactions are anticipated to occur in the following way: 
+
+1. User pays at the merchant using his virtual or physical XIF Card 
+
+2. The card network will send an authorization request to our servers for the purchase amount 
+ 
+3. XIF will send an invoice through the XIF blockchain network to the user 
+
+4. The user will then choose which blockchain asset to use for the payment and send the correct amount to XIF through the XIF blockchain network 
+
+5. Upon receiving the corresponding amount for the invoice, XIF will authorize the payment to the merchant
+
+Wallet proprietary technology allows X-Infinity to conduct more than 20,000 transactions per second, with average transaction confirmation time of 1 second and average transaction fee of USD$0.10 for every 200 transaction.
