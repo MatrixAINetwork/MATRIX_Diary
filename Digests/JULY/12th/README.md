@@ -24,3 +24,29 @@ Dream! Live! And be Yourself! Everything is Possible!
 
 ![](https://i.imgur.com/hMSPgwM.png)
 
+![](https://i.imgur.com/rPH3kwN.png)
+
+![](https://i.imgur.com/QyrQKaL.png)
+
+AXS ROADMAP 2018
+
+Q2 of 2018 🚀
+
+Wallet-release v2.0 for Mac, PC, iPhone, Android, Linux. New design.
+Launching in May, the online-store for the sale and delivery of NVidia graphics cards for AXS coins. As well as the payment of other equipment for mining services.
+
+Q3 2018 🚀
+
+Wallet-release v2.5
+Fast, instant exchange or output of AXS to another currency based on your wallet!
+
+Q4 2018 🚀
+
+AXS PAYMENT GATEWAY
+New Year and Christmas prizes and bonuses.
+More equipment in the online-store for AXS.
+Integration with payment services and bank cards.
+
+Q1 2019 🚀
+
+The launch of the project for the sale of tickets for planes, trains, taxis, car rental, tickets to the movies, theaters, concerts and other entertainment events for coin AXS.
