@@ -20,3 +20,7 @@ Your life is just a moment. And only this moment you may improve. Accordingly, s
 In some point, if you will do everything right, you will realize that your dreams come true, and every new day brings more happiness to your life.  How to make it right? During the decision-making listen for your inner voices of the logic and intuition. Doubts arise only when they disagreement with one another, but when your inner voices talking as one you understand that it’s exactly what is needed. 
 
 Dream! Live! And be Yourself! Everything is Possible!
+
+
+![](https://i.imgur.com/hMSPgwM.png)
+
