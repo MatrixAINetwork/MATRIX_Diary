@@ -88,3 +88,36 @@ The Exereum team is currently negotiating with the exchanges about the users dep
 6. Anonymous
 We are going to integrate the ZK-snarks certificates powered by ZCash team in our network (look roadmap)
 
+### The fork parameters
+
+
+Ticker: EXM
+
+Fork time: 4 of July 2018 12:00 -18:00 UTC
+
+Initial supply: 200,000,000 3.1. ~ 100,000,000 - Ethereum fork 1:1 3.2. ~ 200,000,000 reserve for distribution among other projects holders.
+
+Emission inflation: 
+
+- The first year - 20% 
+- The second year - 10% 
+- The third year - 5% 
+- Later - 3% annually
+
+Rewards distribution: 
+- Masternodes: 50% 
+- POW nodes: 50%
+
+Masternode requirements: 
+
+- 60,000 Exereum per node
+
+Block size: 2MB
+
+Block interval: 15 seconds
+
+Scalability: 1000-10000 tx per second
+
+Tx Fee: commissions are distributed among the master node holders and the holders in proportion 50/50.
+
+Anonymity: ZK-snarks integration in future plans.
