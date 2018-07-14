@@ -61,3 +61,30 @@ Sonm is decentralized fog computing service. Tomorrow it launching mainnet.
 7.200.000 EXM airdrop. For every SNM on your balance you'll get ~0.05 EXM
 
 It's only start...
+
+
+### THE PROJECT FEATURES:
+
+1. Fair distribution
+No ICO: this is a fully non-commercial project with a technological research aim.
+The initial emission will be partly distributed via a fork among the Ethereum holders. A reserved share will be gradually distributed among the ERC-20 tokens holders.
+
+2. Capacity
+The fork is using a 2-level network architecture:
+Masternodes are responsible for transactions verification.
+POW nodes are responsible for adding blocks and synchronisation.
+Moreover, there is a possibility of using the turing-full smart-contracts.
+
+3. The emission
+50% of tokens emission is distributed between the masternode holders providing a high speed of transactions processing. The rest 50% of emission is distributed between the POW nodes according to the hashrate proportion.
+ 
+4. Active cooperation
+The team is negotiating with the decentralised services and applications developers to launch it based on our network.
+A part of reserved Exereum coins will be gradually distributed over the years between the token holders of these services to grow the network value.
+
+5. Exchanges
+The Exereum team is currently negotiating with the exchanges about the users deposit snapshot and a further Exereum listing.
+
+6. Anonymous
+We are going to integrate the ZK-snarks certificates powered by ZCash team in our network (look roadmap)
+
