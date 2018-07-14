@@ -4,7 +4,7 @@
 #### High-speed Ethereum based blockchain
 
 
-###Fork schedule
+### Fork schedule
 
 We decided to implement multisnap conception.
 
@@ -34,3 +34,30 @@ The first snapshot occurs today 4 July at 15:00 UTC.
 
 You will get 0,1 EXM for 1 ETH on your balance every snapshot step.
 You will get 1 EXM for 1 ETH in the end.
+
+
+### Reward program
+
+Update for airdrop program
+
+We announced series of airdrops to the most interesting projects based on Ethereum blockchain. We heard many questions about our selection criteries.
+
+So, everybody who has blockchain based project on Ethereum may send us info.
+
+Airdrop fund is now open for every good project!
+
+We are starting our rewarding campaign for ERC-20 project's communities. We selected 2 candidates for our rewarding airdrop.
+
+1. IDEX project
+2. 
+IDEX is decentralized exchange service for ERC-20 ecosystem provided by Aurora DAO.
+
+1.000.000 EXM airdrop. For every IDX on your balance you'll get 500 EXM reward.
+
+2. SONM project
+3. 
+Sonm is decentralized fog computing service. Tomorrow it launching mainnet. 
+
+7.200.000 EXM airdrop. For every SNM on your balance you'll get ~0.05 EXM
+
+It's only start...
