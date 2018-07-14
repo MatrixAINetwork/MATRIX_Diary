@@ -121,3 +121,24 @@ Scalability: 1000-10000 tx per second
 Tx Fee: commissions are distributed among the master node holders and the holders in proportion 50/50.
 
 Anonymity: ZK-snarks integration in future plans.
+
+
+### Roadmap
+
+February 2018 - start of the project concept development.
+
+April 2018 -  technical research and the development start.
+
+May 2018 - public for announcement.
+
+4 of July 2018 (12:00-18:00 UTC) - fork date (Ethereum blockchain snapshot).
+
+October 2018 -  test network launch.
+
+November 2018 - masternode system testing.
+
+December 2018 - main network launch. Public client release v 1.0
+
+No date: ZK-snarks integration
+
+The roadmap will be expanded over the project development.
