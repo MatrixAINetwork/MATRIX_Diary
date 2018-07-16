@@ -43,3 +43,21 @@ Code:
     platform isn’t a platform without it’s community member, we
     will hold different campaigns to arouse the attention of people
     and to expend the platform and so its possibilities as well.
+
+
+###  CANO CRYPTOCURRENCY COIN SPECIFICATION
+
+    COIN NAME: CANO TICKER: CANO
+    ALGORITHM: QUARK
+    TPYE: PoW/PoS/MASTERNODES
+    BLOCKTIME: 1 SECONDS MINIMUM
+    STAKING AGE: 1.5 HOURS
+    REWARDS :
+    BLOCK HEIGHT 0-1: 250.000 [PRE-MINE][POW]
+    BLOCK HEIGHT 2-1.000: 0.1 [POS:30%], [MN:70%]
+    BLOCK HEIGHT 1.001-4.502: 0.20 [POS:30%], [MN:70%]
+    BLOCK HEIGHT 4.503-76.503: 50 [POS:30%], [MN:70%]
+    BLOCK HEIGHT 76.504-522.094:3.5 [POS:30%], [MN:70%]
+    BLOCK HEIGHT 522.095-END: 0.4 [POS:30%], [MN:70%]
+    MASTERNODE: 3.000 COINS REQUIREMENT
+    MAXIMUM SUPPLY: 8.000.000 CANO COINS
