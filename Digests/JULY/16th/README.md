@@ -70,3 +70,5 @@ Code:
     23 masternodes will be in the pre-sale
     Price is 0.4 BTC per masternode
     Pre-sale will be done on Discord
+
+![](https://i.imgur.com/QGWZ1Rh.png)
