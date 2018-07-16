@@ -61,3 +61,12 @@ Code:
     BLOCK HEIGHT 522.095-END: 0.4 [POS:30%], [MN:70%]
     MASTERNODE: 3.000 COINS REQUIREMENT
     MAXIMUM SUPPLY: 8.000.000 CANO COINS
+
+
+### PRE-SALE
+
+Code:
+
+    23 masternodes will be in the pre-sale
+    Price is 0.4 BTC per masternode
+    Pre-sale will be done on Discord
