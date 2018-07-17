@@ -32,3 +32,10 @@ Raising Goal= Only 5 ETH
 
 Supply available to Early Holders=5000 BDP
 
+
+
+Early holder reward will be support and reward to early holders in return for supporting Blockdrop Network project in early stages.
+
+This offer could reach it's goal of 5 ethers in few hours so get in as quick as possible, After raising 5 Ethers our smart contract will stop accepting ethers and all ethers sent after reaching the goal of 5 ether will be returned to users automatically so that's why it's called early holder reward as only few first users will able to get it.
+
+
