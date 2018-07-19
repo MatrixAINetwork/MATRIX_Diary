@@ -160,3 +160,25 @@ Code:
     -a c11 -o stratum+tcp://cvmpool.pw:2101 -u <WALLET> -p x
 
 
+- https://fairmine.pro
+
+
+Code:
+
+    -a c11 -o stratum+tcp://eu1.fairmine.pro:3572 -u <WALLET_ADDRESS> -p c=LDEX -R3
+
+- https://lex.magnificentpool.com
+
+
+Code:
+
+    -a c11 -o stratum+tcp://lex.magnificentpool.com:1915 -p x
+
+- https://weekendpool.org
+
+
+Code:
+
+    -a c11 -o stratum+tcp://weekendpool.org:3575 -u <WALLET> -p x
+
+
