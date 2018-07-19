@@ -71,3 +71,9 @@ Q1 2019
 
      Starting date: 07 July, 2018
      Ending date: 20 July, 2018
+
+LDEX Platform
+     The team is currently working on a DEX platform. The DEX will be launched in Q3 of 2018. A % of all trading profits on DEX will go to LEXIUM holders, more details will be published soon.
+
+This is not just another ROI coin
+     We do strongly believe that Masternodes aren't "money making machine". Maternodes are for helping securing the network and doing special tasks. LEXIUM Masternodes won't give Masternode holders crazy ROI, it will only give feasible rewards.
