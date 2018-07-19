@@ -93,3 +93,19 @@ Wallets:
     => Web Wallet: https://wallet.lexiumcoin.org
     => Windows: https://github.com/LEXIUM-PROJECT/LEXIUM/releases/download/1.01/lexium-qt-windows.exe
     => Linux: Coming shortly
+
+### Pools
+
+  1. https://dummdipool.de
+
+USA
+
+Code:
+
+    -a c11-o stratum+tcp://us1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
+
+EUROPE
+
+Code:
+
+    -a c11 -o stratum+tcp://eu1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
