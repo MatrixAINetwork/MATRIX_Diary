@@ -182,3 +182,6 @@ Code:
     -a c11 -o stratum+tcp://weekendpool.org:3575 -u <WALLET> -p x
 
 
+### Explorers:
+        => https://explorer.lexiumcoin.org
+
