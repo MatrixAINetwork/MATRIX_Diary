@@ -1,0 +1,6 @@
+Ask MATRIX第六期文字版如约而至，视频版已在YouTube播出。更多具体内容请到MATRIX官方YouTube及GitHub上查看。
+
+
+##### 节点随机选举算法是否关联硬件的唯一识别码？如果是，那么持有更多设备是否能增加当选的概率
+
+随机选举算法不与硬件绑定，而是由多个validator共同参与生成，每一个validator只是占有其中的一部分，所以随机算法由多个validator共同决定，而单个validator无法作弊。
