@@ -66,3 +66,8 @@ Q1 2019
 - Ledger and Trezor Support
 - Marketing, Promotion & Partnership
 - Planning for 2019
+
+### Swap Details
+
+     Starting date: 07 July, 2018
+     Ending date: 20 July, 2018
