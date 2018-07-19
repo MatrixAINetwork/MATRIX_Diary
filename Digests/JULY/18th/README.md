@@ -143,3 +143,20 @@ Code:
 
     -a c11 -o stratum+tcp://asia.bsod.pw:2342 -u WALLET.rig
 
+
+- https://hashfaster.com
+
+
+Code:
+
+    cc/sgminer: -a c11 -o stratum+tcp://hashfaster.com:20053 -u WALLETADDRESS -p c=LEX
+
+
+- https://cvmpool.pw
+
+
+Code:
+
+    -a c11 -o stratum+tcp://cvmpool.pw:2101 -u <WALLET> -p x
+
+
