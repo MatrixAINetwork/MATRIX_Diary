@@ -96,16 +96,50 @@ Wallets:
 
 ### Pools
 
-  1. https://dummdipool.de
+ - https://dummdipool.de
 
 USA
 
 Code:
 
-    -a c11-o stratum+tcp://us1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
+     -a c11-o stratum+tcp://us1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
 
 EUROPE
 
 Code:
 
-    -a c11 -o stratum+tcp://eu1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
+     -a c11 -o stratum+tcp://eu1.dummdipool.de:5001 -u YOUR_WALLET_ADDRESS.RIGNAME -p c=LDEX
+-  http://youcrazy.me
+
+
+Code:
+
+     -a c11 -o stratum+tcp://stratum.youcrazy.me:3573 -u YourWalletAddress -p c=LEX
+
+- https://protopool.net
+
+
+Code:
+
+     -a c11 -o stratum+tcp://eu2.protopool.net:3553 -u GRV_WALLET -p c=LEX
+
+- https://bsod.pw
+
+Europe
+
+Code:
+
+     -a с11 -o stratum+tcp://eu.bsod.pw:2342 -u WALLET.rig
+
+North America
+
+Code:
+
+    -a c11 -o stratum+tcp://us.bsod.pw:2342 -u WALLET.rig
+
+Asia
+
+Code:
+
+    -a c11 -o stratum+tcp://asia.bsod.pw:2342 -u WALLET.rig
+
