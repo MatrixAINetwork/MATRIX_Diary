@@ -46,3 +46,22 @@ POS Starts at Block 10500
 - Block 90000 - 92499 - 10000% 
 - Block 92500 - 99999 - 100% 
 - Block 100000 - Infinity - 20% 
+
+
+#### Presale Packages
+
+Week 1:
+
+- 0.0075 BTC - 500 VAPE
+- 0.015 BTC - 1000 VAPE
+- 0.03 BTC - 2500 VAPE
+- 0.05 BTC - 4500 VAPE
+- 0.1 BTC - 10000 VAPE
+
+Week 2 onwards:
+
+- 0.0075 BTC - 500 VAPE
+- 0.015 BTC - 1000 VAPE
+- 0.03 BTC - 2000 VAPE
+- 0.05 BTC - 3500 VAPE
+- 0.1 BTC - 7500 VAPE
