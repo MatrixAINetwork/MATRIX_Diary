@@ -65,3 +65,17 @@ Week 2 onwards:
 - 0.03 BTC - 2000 VAPE
 - 0.05 BTC - 3500 VAPE
 - 0.1 BTC - 7500 VAPE
+
+#### Links
+
+- Discord: https://discord.gg/MHqdZjM
+- Twitter: https://twitter.com/VapeCoinDev
+- GitHub Repo: https://github.com/VapeCoinDev/Vapecoin-Master
+- Windows Wallet Link: https://github.com/VapeCoinDev/Vapecoin-Master/releases/download/v1.0/Vapecoin-qt.zip
+- Explorer: http://45.63.7.226:1003
+- CC Miner: https://github.com/tpruvot/ccminer/releases
+- CPU Miner: https://github.com/JayDDee/cpuminer-opt
+
+#### Pools:
+- ProtoPool: https://protopool.net
+- AsiaPool: https://asiapool.trade
