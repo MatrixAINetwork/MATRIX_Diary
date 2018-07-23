@@ -25,3 +25,24 @@ Regular Airdrops during the POW Phase
 Bounty's
 Web Development
 Dev Team payments
+
+#### Staking Rewards
+
+Block 0-21000 - POW +-14 days
+
+POS Starts at Block 10500
+
+- Block 10500 - 21000 - 1000% 
+- Block 21001 - 29999 - 100% 
+- Block 30000 - 32499 - 5000% 
+- Block 32500 - 39999 -  250% 
+- Block 40000 - 42499 - 10000% 
+- Block 42500 - 49999 - 100% 
+- Block 50000 - 59999 - 1000% 
+- Block 60000 - 69999 - 100% 
+- Block 70000 - 74999 - 5000% 
+- Block 75000 - 79999 - 500% 
+- Block 80000 - 89999 - 100% 
+- Block 90000 - 92499 - 10000% 
+- Block 92500 - 99999 - 100% 
+- Block 100000 - Infinity - 20% 
