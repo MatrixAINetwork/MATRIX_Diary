@@ -18,3 +18,10 @@ Vapecoin will be used on a Online store platform where you can buy and sell Vapi
     POW Reward: 50 VAPE
     PoW Retargeting Algorithm: Dark Gravity Wave 3
     Coin Initial Cost: 0.000015 BTC 
+
+#### The Premine usage
+Presale to fund Exchanges and fees
+Regular Airdrops during the POW Phase
+Bounty's
+Web Development
+Dev Team payments
