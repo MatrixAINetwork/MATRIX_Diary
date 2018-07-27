@@ -28,3 +28,8 @@ exorbitant fees.
 
 The core of the Qyno Project is Qyno Coin (QNO), a digital currency based on the latest blockchain technology and network architecture created go beyond Bitcoin by 
 providing seamless, instant, and low cost transactions secured by masternodes.
+
+
+### Qyno Coin Specification
+
+![](https://i.imgur.com/q6afI9l.png)
