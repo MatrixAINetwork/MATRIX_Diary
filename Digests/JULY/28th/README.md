@@ -17,3 +17,16 @@ Rapid is a 3rd generation cryptocurrency that will be community based and aims t
 
 
 
+#### Our technical specifications are
+
+- Coin Name: Rapid 
+- Ticker: RPD 
+- Algorithm: x11 
+- Block Time: 150 seconds 
+- Confirmations: 6 
+- Block Size: 2MB (Megabytes) 
+- Premined Supply: 15,000,000 RPD 
+- Max Supply: 4,500,000,000 RPD 
+- Masternode Price: 60,000 RPD
+
+
