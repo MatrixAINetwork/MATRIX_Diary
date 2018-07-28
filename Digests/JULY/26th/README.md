@@ -44,3 +44,39 @@ A cryptocurrency turned to community. with 0% premine and very safe
 - 300001 - 500000 - 1 Vunt
 
 
+### POS reward:
+
+- 1001 - 5000 / 500%
+- 5001 - 30000 / 400%
+- 30001 - 50000/ 300%
+- 50001 - 70000/ 200%
+- 70001 - 75000/ 1000% Superblocks
+- 75001 - 100000/500%
+- 100001 - 150000/300%
+- 150001 - 200000/100%
+- 200001 - 210000/1000% Superblocks
+- 210001 - 300000/500%
+- 300001 - 350000/200%
+- 350001 - 400000/100%
+- 400001 - 410000/1000% Superblocks
+- 410001 - 500000/300%
+- 500001 - 600000/500%
+- 600001 - 610000/ 1000% Superblocks
+- 610001 - 700000/ 500%
+- 700001-  1000000/ 200%
+- 1000001 + 25%
+
+Transaction confirmations: 6 blocks
+
+### Wallets
+
+https://github.com/Healkiller/Vunt/releases/tag/1.0 (windows)
+
+### Block explorer
+https://cvmpool.pw/explorer/VUNT
+
+
+###Nodes
+addnode=45.32.238.57
+
+addnode=45.77.127.147
