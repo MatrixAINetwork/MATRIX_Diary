@@ -30,3 +30,17 @@ A cryptocurrency turned to community. with 0% premine and very safe
 - Rpc port: 10033
 - connection port: 10035
 
+### POW Block reward:
+
+- 0 - 1000 - 500 Vunt
+- 1001 - 5000 - 250 Vunt
+- 5001 - 15000 - 150 Vunt
+- 15001 - 30000 - 75 Vunt
+- 30001 - 60000 - 50 Vunt
+- 60001 - 100000 - 25 Vunt
+- 100001 - 150000 - 10 Vunt
+- 150001 - 200000 - 5 Vunt
+- 200001 - 300000 - 3 Vunt
+- 300001 - 500000 - 1 Vunt
+
+
