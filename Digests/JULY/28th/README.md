@@ -1,5 +1,7 @@
 ### [ANN] Rapid [X11] [POW] [Masternodes] 
 
+![](https://i.imgur.com/I4KQYkm.png)
+
 WEBSITE： https://www.rpdcoin.com/
 
 TWITTER： https://twitter.com/rpdcoin
@@ -33,3 +35,7 @@ Rapid is a 3rd generation cryptocurrency that will be community based and aims t
 #### Masternodes
 
 Masternodes are a great way to strengthen the decentralized network hosted by the community, it also allows the core functions of InstantSend and PrivateSend to function which allows the full potential of Rapid to be used. It costs 60,000 RPD to host a masternode and the 500 RPD rewards make it a high return of investment. Also with masternodes, you get to govern the proposals sent in by the community whether they deserve a chunk of a superblock to help fund their project.
+
+#### Block Rewards
+
+![](https://i.imgur.com/XO6QGV5.jpg)
