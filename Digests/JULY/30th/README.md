@@ -42,3 +42,19 @@ Fork Process
 - Mining Algorithm will be changed to Lyra2Z at 31-08-2018 00:00:00  
 
 Reward After Fork
+
+![](https://i.imgur.com/eSX1nsD.jpg)
+
+If you have already installed AlphaNode wallet please update to 3.0.0.3.
+
+[https://github.com/modcrypto/alphanode/releases/tag/3.0.0.3](https://github.com/modcrypto/alphanode/releases/tag/3.0.0.3)
+
+For Ubuntu: 
+
+[https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_ubuntu16.04_3.0.0.3.tar.gz](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_ubuntu16.04_3.0.0.3.tar.gz)
+[https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_ubuntu18.04_3.0.0.3.tar.gz](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_ubuntu18.04_3.0.0.3.tar.gz)
+
+For Windows :
+ 
+[https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win64_3.0.0.3.zip](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win64_3.0.0.3.zip)
+[https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win32_3.0.0.3.zip](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win32_3.0.0.3.zip)
