@@ -22,3 +22,23 @@ Old specification
 - PoW Blocks: 2 - 475200
 - PoS Blocks: Starting from 475201 
 - Block Reward: 125 ALN   Masternodes 30% / Miners 70%
+
+
+#### New specification
+
+1. PoW Algorithm: Lyra2Z
+2. Last POW Block change to 500000 ( POS / MN)
+    PoS Blocks: Starting from 500001 
+3. Three Levels Masternode 
+   * Level 1 - requires   10,000 ALN  MasterNode Reward  10% 
+   * Level 2 - requires   50,000 ALN  MasterNode Reward  30%
+   * Level 3 - requires  100,000 ALN MasterNode Reward  50%
+
+
+Fork Process
+
+- The Fork process starts at blocks 225000. 
+
+- Mining Algorithm will be changed to Lyra2Z at 31-08-2018 00:00:00  
+
+Reward After Fork
