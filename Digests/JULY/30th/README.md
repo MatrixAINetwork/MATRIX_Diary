@@ -58,3 +58,38 @@ For Windows :
  
 [https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win64_3.0.0.3.zip](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win64_3.0.0.3.zip)
 [https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win32_3.0.0.3.zip](https://github.com/modcrypto/alphanode/releases/download/3.0.0.3/alphanode_win32_3.0.0.3.zip)
+
+![](https://i.imgur.com/S7K5W99.jpg)
+
+Q3 - 2018 - Project Takeover 
+
+- Setup new infrastructure: seed nodes, domain, website, explorer, discord and github
+- Dev Fund 
+- Rebranding: Logo Design
+- Develop New wallet, start fork process
+- BitcoinTalk ANN
+- Bounty
+- Contact to exchanges: Graviex, Nibxy
+
+Q4 - 2018 
+
+- Multiple Exchange Partners
+- MacOS, Android and IOS wallets
+- Development Alphanode payment gateway.
+- Web Wallet
+
+Q1 - 2019 
+
+- AlphaNode Store & Market Place
+- AlphaNode Payment Gateway
+- Retails partners
+
+Q2 - 2019 
+
+- White Paper and Roadmap V2
+
+![](https://i.imgur.com/Fs0YaNM.jpg)
+
+- DISCORD : https://discord.gg/xAST2ga
+- TWITTER :  https://twitter.com/alphanode_ALN
+- TELEGRAM : https://t.me/alphanode_ALN
