@@ -20,3 +20,12 @@ MATRIX始终在高效有序地推动技术落地与社区生态建设。7月28�
 ![](https://i.imgur.com/TjTCGiD.jpg)
 
 图为MATRIX团队与其他项目方进行深入交流
+
+Samurai Signals 专为加密数字资产市场提供分析服务，在行业峰会上，其创始人将在会上分享在他眼中区块链行业的发展。MATRIX作为特邀嘉宾出席，本次活动携手数位业界大咖，包括：MATRIX首席芯片科学家时昕，MATRIX CEO 陶鸥，及Samurai Signals　创始人　Mehmet Temiz。以上几位为大家带来详实的技术与业态分析、行业发展趋势前瞻与洞察，这些干货引发了现场观众的强烈共鸣，并在互动环节中与MATRIX团队核心成员深入探讨人工智能与区块链的结合。
+
+![](https://i.imgur.com/WaY1iFl.jpg)
+
+图为MATRIX CEO 陶鸥与土耳其社群领袖Sertac合影
+
+![](https://i.imgur.com/YCc5NCw.jpg)
+图为土耳其社群领袖赠送的MATRIX旗帜
