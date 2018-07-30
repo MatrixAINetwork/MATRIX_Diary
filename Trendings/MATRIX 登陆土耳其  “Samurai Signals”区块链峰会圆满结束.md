@@ -29,3 +29,11 @@ Samurai Signals 专为加密数字资产市场提供分析服务，在行业峰�
 
 ![](https://i.imgur.com/YCc5NCw.jpg)
 图为土耳其社群领袖赠送的MATRIX旗帜
+
+![](https://i.imgur.com/3IcGZLV.jpg)
+
+图为MATRIX团队与土耳其社群成员交流
+
+
+会后，MATRIX 项目成员与土耳其社区领袖 Sertac 进行了面对面的交流，MATRIX 社区运营经理Ken向大家介绍了未来MATRIX社区发展规划。
+MATRIX致力于第三代区块链公链的研发。我们的使命是让更多用户受益于我们的人工智能技术和产品。
