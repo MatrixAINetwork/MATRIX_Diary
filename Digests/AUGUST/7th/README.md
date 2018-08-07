@@ -48,15 +48,28 @@ your signature while you are participating in this campaign.
 * Full member: .00035 BTC/Week
 * Sr. member thru Legacy : .0004 BTC/Week[
 [/b]
-12. Optional: Please post the following on Twitter. If you tweet more often and tag @catocoin - we will notice and take that into consideration 
+- 12. Optional: Please post the following on Twitter. If you tweet more often and tag @catocoin - we will notice and take that into consideration 
 when making payouts.  You must tweet the following:
 
 Code:
 
     Huge .25 BTC @catocoin BTT Signature Line Giveaway - sign up here: https://goo.gl/forms/JFVpxdMPFHy2vR8S2 
 
+#### CatoCoin 'NextGen Technology
 
 
-Attach this image to your tweet: 
+Our ground breaking NextGenTechnology transforms the way in which Rewards and Collateral requirements are calculated. 
 
+We identified several problem areas and opportunities that could only be addressed through the introduction of a new coin with 
+revolutionary Blockchain technology: CatoCoin; because all conventional Masternode coins are plagued with the same fundamental problems. 
 
+Conventional coins pre-set rewards on the progression of the block chain by 'guessing' how quickly Masternodes will be added over 
+time when the coin is developed. This approach is like throwing darts blindfolded. 
+
+CatoCoin's NextGen Technology decouples rewards & collateral requirements from the blockchain and links them instead to the 
+number of active Masternodes. 
+
+CatoCoin's NextGen Technology employs sophisticated algorithms to evaluate the number of active Masternodes and automatically adjusts 
+rewards and collateral requirements. This ingenious approach allows CatoCoin to be the only coin that can Guarantee ROI both now and in the future. 
+
+All without ever having to fork the blockchain, install new wallets or purchase additional coins once collateral requirements increase.
