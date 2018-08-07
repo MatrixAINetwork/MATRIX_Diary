@@ -96,6 +96,13 @@ All without ever having to fork the blockchain, install new wallets or purchase 
 
 https://catocoin.net
 
+#### GITHUB
+
+https://github.com/CatoCoin
+
+#### MASTERNODE SETUP GUIDE
+
+https://github.com/CatoCoin/catoinstall
 
 #### ROADMAP
 
