@@ -73,3 +73,21 @@ CatoCoin's NextGen Technology employs sophisticated algorithms to evaluate the n
 rewards and collateral requirements. This ingenious approach allows CatoCoin to be the only coin that can Guarantee ROI both now and in the future. 
 
 All without ever having to fork the blockchain, install new wallets or purchase additional coins once collateral requirements increase.
+
+
+#### CatoCoin is The Next Generation of Masternode Technology
+
+
+
+  Collateral & Rewards increase based on the number of active Masternodes  
+  Listed on CryptoBridge NOW  
+  Innovative anti-dumping design factor  
+  Automatic Collateral & Reward Increases every 30 nodes without any wallet updates required  
+  Masternode Persistence after collateral increases  
+  Your Masternode never expires even though newer Masternodes require a higher collateral  
+  Staking Mobile wallet on Roadmap  
+  Masternode exchange on Roadmap  
+  Increasing Rewards based on Number of Masternode Running  
+  Ingenious Reward system to insure there's never an oversupply of coins  
+  Excellent ROI even after hundreds of Masternodes  
+  Substantial Rewards for early adopters  
