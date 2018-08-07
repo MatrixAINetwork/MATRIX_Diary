@@ -16,3 +16,5 @@ https://mero.network/pdf/mero-v1.0.3.pdf
 http://explorer.mero.network/
 
 ![](https://i.imgur.com/CND9rW9.jpg)
+
+![](https://i.imgur.com/0Tmnz3a.jpg)
