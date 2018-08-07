@@ -91,3 +91,20 @@ All without ever having to fork the blockchain, install new wallets or purchase 
   Ingenious Reward system to insure there's never an oversupply of coins  
   Excellent ROI even after hundreds of Masternodes  
   Substantial Rewards for early adopters  
+
+#### WEBSITE
+
+https://catocoin.net
+
+
+#### ROADMAP
+
+
+The CatoCoin Roamap also includes the testing of an  innovative 'Sharded' 
+block chain CatoCoin wallet for faster transaction processing and reduced storage requirements in 
+Q2 2019  and plans for inter-wallet coin trading for BTC. 
+
+Q4-2018 will bring an updated wallet that interfaces directly with Coinexchange.io so you'll be
+ able to see the BTC and $ Value of your coins at any time!
+
+![](https://i.imgur.com/l0xhI5u.jpg)
