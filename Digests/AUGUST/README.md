@@ -18,3 +18,14 @@ http://explorer.mero.network/
 ![](https://i.imgur.com/CND9rW9.jpg)
 
 ![](https://i.imgur.com/0Tmnz3a.jpg)
+
+### JOIN OUR COMMUNITY
+
+TWITTER: https://twitter.com/merocoin
+
+DISCORD: https://discord.gg/UaxGUmt
+
+GITHUB: https://github.com/merocoin/mero
+
+
+
