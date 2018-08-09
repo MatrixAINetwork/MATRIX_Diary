@@ -46,4 +46,5 @@ Minimum TX Fee:                1,000 VRX
 - [Website ](https://vortexcoin.eu/)
 - [Twitter](https://twitter.com/Vortex79436235)
 - [Discord](https://discord.gg/FrtFX3b)
-
+- [Github](https://github.com/supervortex/vortex)
+- [Block explorer](http://explorer.vortexcoin.eu/)
