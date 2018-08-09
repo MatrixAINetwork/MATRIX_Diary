@@ -1,6 +1,6 @@
 ## [ANN][VORTEX] ⚡⚡ VORTEX NETWORK ⚡⚡ | PoW/POS/MN | Solutions for crypto payments 
 
-
+![](https://i.imgur.com/bHBaq4H.png)
 ### VORTEX Introduction
 
 Vortex is an open source, community driven, environmentally conscious cryptocurrency and an alternative to bitcoin that features better anonymity. It allows people to store and invest their wealth in a non-government controlled currency and make almost instantaneous and completely anonymous transfers with close to zero fees. Vortex was founded as an long-standing, energy-efficient and environmentally friendly digital cryptocurrency and this concept is being continued.
