@@ -44,3 +44,20 @@ The increasing centralized nature of our financial institutions and authorities 
 - Partnered with real estate industry leaders and rental providers
 - Rentledger rewards for regular use and engagement with the platform
 - Verifiable rental records fosters trust in contract based relationships
+
+
+### RENTLEDGER FEATURES
+
+![](https://i.imgur.com/gTFSTuZ.png)
+
+### TOKEN DISTRIBUTION AND DETAILS
+
+Token Symbol (Ticker): RTL
+
+Circulating Supply: 1 Billion
+
+Max Reward Dist: 2 Billion p.a.
+
+Max Total Supply: 10 Billion
+
+Spec/Protocol: ERC20 token
