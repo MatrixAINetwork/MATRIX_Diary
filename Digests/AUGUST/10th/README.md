@@ -34,3 +34,13 @@ To enable all users to effectively take total and decentralized control of all o
 
 
 The increasing centralized nature of our financial institutions and authorities has renters forced to place total faith in third parties. Dependence on the centralized payment methods and associated records places users of the system in a required trust relationship and all management firmly in the hands of the corporation, not the individual or community.
+
+### WHY RENTLEDGER
+
+![](https://i.imgur.com/1R9lgH7.png)
+
+
+- Transparency of all rental account payments and history
+- Partnered with real estate industry leaders and rental providers
+- Rentledger rewards for regular use and engagement with the platform
+- Verifiable rental records fosters trust in contract based relationships
