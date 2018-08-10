@@ -61,3 +61,10 @@ Max Reward Dist: 2 Billion p.a.
 Max Total Supply: 10 Billion
 
 Spec/Protocol: ERC20 token
+
+![](https://i.imgur.com/ofpeXy2.png)
+
+
+### ROADMAP
+
+![](https://i.imgur.com/OPnBlCC.jpg)
