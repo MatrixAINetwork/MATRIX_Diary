@@ -13,3 +13,7 @@ Rental Ledger System Blockchain rental and payment history records with rewards
 [WHITEPAPER](https://rentledger.io/#whitepaper)
 
 [TWITTER](https://twitter.com/rentledgerio/)
+
+[DISCORD](https://discordapp.com/invite/aXcUZeA)
+
+[GITHUB](https://github.com/rentledger)
