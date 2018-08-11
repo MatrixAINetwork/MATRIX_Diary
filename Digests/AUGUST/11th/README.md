@@ -81,3 +81,15 @@ In order to enable a stabilization of the network hash rate and to validate our 
 
 ### ROADMAP
 
+![](https://i.imgur.com/uYaD7aF.png)
+
+
+
+Despite being more focused on successfully launching the first version of X-CASH at the moment, we are thinking about the future of our blockchain. X-CASH 2.0 will need to address two important topics which are scalability and ground base for API development. There are 3 possibilities we have been thinking about:
+
+•Evolve our current code: This is the natural path that we currently are focusing on. It basically consists of incremental releases, that will make us progressively reach our targets while keeping cryptonote and cryptonight PoW as core code. The next release of X-CASH 1.1 is set up for the end of September.
+ 
+•Build a new technology/core code from scratch: This is a very interesting path as we have a few ideas we would like to work on, which include a constant size blockchain or blockchain compression. We will later detail these concepts, once we can validate our first stage development and attract more funding.
+ 
+•Include X-CASH in an existing protocol: We are also carrying some thought about implementing X-CASH into a more developed blockchain network. ERC20 contracts as other standards on the Ethereum blockchain could be interesting but are not viable at the moment, because they still do not address scalability. Similarly, we have been watching closely what solutions EOS is offering because they could offer some answers to the challenges we are facing. 
+Our conclusion is that the technology is not mature enough for the moment but we keep running parallel experiences and will revise our position accordingly, should any significant changes happen.
