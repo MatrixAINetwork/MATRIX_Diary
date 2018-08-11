@@ -93,3 +93,14 @@ Despite being more focused on successfully launching the first version of X-CASH
  
 •Include X-CASH in an existing protocol: We are also carrying some thought about implementing X-CASH into a more developed blockchain network. ERC20 contracts as other standards on the Ethereum blockchain could be interesting but are not viable at the moment, because they still do not address scalability. Similarly, we have been watching closely what solutions EOS is offering because they could offer some answers to the challenges we are facing. 
 Our conclusion is that the technology is not mature enough for the moment but we keep running parallel experiences and will revise our position accordingly, should any significant changes happen.
+
+
+### GLOBAL NETWORK
+
+To support the X-CASH Network, we are setting up dedicated servers with high available bandwidth all over the world. 
+
+In addition to the nodes run by the users, they will ensure a fast synchronization of the blockchain and guarantee low latencies for all users from day one. 
+
+This consists of a 3-phase deployment that we will perform over the next months. 
+
+While the map below summarizes our current live servers, we hope to cover geographically 95% of the countries by the end of 2018.
