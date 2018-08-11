@@ -64,3 +64,17 @@ Difficulty adjustment:
 - [TELEGRAM](http://t.me/xcashglobal)
 
 - [DISCORD](https://discord.gg/4CAahnd)
+
+
+### DISTRIBUTION OF X-CASH
+
+By granting only 2% of the coins to the founding team, we are hoping to build trust with the market. 
+Moreover, we have decided to link the release of the coins to the team with the evolution of the market capitalization of X-CASH.
+
+This will both prevent any hard dumping and ensure the long-term commitment of the team whose interests are aligned with the community. Also, in accordance with our policy, we will provide quarterly external audits on the premine funds status and quantity.
+
+Half of the premine is reserved to the airdrop/bounty pool. This enables to have a large proportion of our coins being evenly distributed between users, even those without huge mining power.
+
+![](https://i.imgur.com/1UiHo91.png)
+
+
