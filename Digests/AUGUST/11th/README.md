@@ -14,3 +14,38 @@ By having funded $100k of the capital, we have decided to not go through an ICO 
 ### Regulatory compliant and linked to traditional banking
 
 By being incorporated in France, we want to be compliant with all France and E.U. existing and upcoming regulations. Similarly, thanks to our background in the financial industry, we hope to build a tight link with traditional banking. These two elements are compulsory and needed to bring cryptocurrency to mainstream adoption. Regulations will ensure the protection of the users and investors while banks will serve as a catalyst thanks to their solid base of retail clients.
+
+
+### COIN INFO
+
+
+
+Ticker:
+ XCA 
+
+Total supply: 
+ 100.000.000.000 (100 Billion) XCA 
+
+Distribution: 
+ Mining, Airdrop 
+
+Algorithm: 
+ Cryptonight v7 (Proof-Of-Work) 
+
+Reward: 
+ ~100.000 XCA (at inception) 
+
+Emission: 
+ Logarithmic until max supply reached in 2020 
+
+Block Interval: 
+ 60s 
+
+Tx time (average): 
+ 30s 
+
+Block size (average): 
+ 300kb  
+
+Difficulty adjustment: 
+ Every 720 block 
