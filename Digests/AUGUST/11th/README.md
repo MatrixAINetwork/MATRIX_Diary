@@ -77,4 +77,7 @@ Half of the premine is reserved to the airdrop/bounty pool. This enables to have
 
 ![](https://i.imgur.com/1UiHo91.png)
 
+In order to enable a stabilization of the network hash rate and to validate our procedures, we have reset the blockchain 2 days (~3800 blocks) before the public release. The funds mined during this period (~400m XCA) will fully be released to the community through various bounties described in the bounty section.
+
+### ROADMAP
 
