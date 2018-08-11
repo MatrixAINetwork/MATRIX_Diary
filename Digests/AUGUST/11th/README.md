@@ -49,3 +49,18 @@ Block size (average):
 
 Difficulty adjustment: 
  Every 720 block 
+
+
+### LINKS AND RESOURCES
+
+- [WEBSITE](https://x-cash.org/) 
+
+- [BLOCK EXPLORER](https://explorer.x-cash.org/)
+
+- [MINING POOL](http://minexcash.com/)
+
+- [FAQ](https://x-cash.org/#FAQ)
+
+- [TELEGRAM](http://t.me/xcashglobal)
+
+- [DISCORD](https://discord.gg/4CAahnd)
