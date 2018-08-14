@@ -14,4 +14,10 @@
 
 - [Twitter](https://twitter.com/traid_platform)
 
-- 
+- [Discord](https://discord.gg/tEUt4aX)
+
+- [Youtube](https://www.youtube.com/channel/UCjoJNtjDmIiCNSzpAvixLGA)
+
+- [Telegram](http://t.me/traidplatform)
+
+- [Medium](https://medium.com/@traid_platform)
