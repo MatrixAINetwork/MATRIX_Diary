@@ -21,3 +21,7 @@
 - [Telegram](http://t.me/traidplatform)
 
 - [Medium](https://medium.com/@traid_platform)
+
+
+![](https://i.imgur.com/7AzERV4.jpg)
+
