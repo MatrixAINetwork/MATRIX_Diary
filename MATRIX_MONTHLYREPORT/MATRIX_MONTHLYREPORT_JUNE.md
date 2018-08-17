@@ -99,3 +99,9 @@
 ### 战略生态
 ### Strategic Ecosystem
 
+    与IEC(国际电工委员会）洽谈合作，参与区块链标准化制定工作。IEC是世界上成立最早的国际性电工标准化机构，负责有关电气工程和电子工程领域中的国际标准化工作。
+    MATRIX has started the submission process of working with IEC (International Electrotechnical Commission) to cooperate on the developing international standardizes for blockchain. IEC, the world's earliest international organization for standardization of electrotechnical industry, is responsible for international standardization in electrical engineering and electronic engineering.
+
+
+    与中国标准集团签署战略合作协议，合作内容包括：区块链、人工智能相关技术的创新及试验；区块链、人工智能相关技术标准的制定；区块链、人工智能应用领域的推广等。
+    MATRIX signed a strategic agreement with the China Standard Science and Technology Group Co. Ltd to partner on advancing technological innovation, testing, applications, and standards development in the blockchain and AI.  
