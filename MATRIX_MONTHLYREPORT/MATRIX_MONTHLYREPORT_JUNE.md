@@ -1,5 +1,5 @@
-## 技术研发
-## Technology Development 
+### 技术研发
+### Technology Development 
 
     6.14 	
 
@@ -39,77 +39,63 @@
 ### 市场活动
 ### Market Activities 
 
-    6.29
-    MATRIX人工智能首席科学家邓仰东于链得得&钛媒体全球前沿创新先锋北京论坛，对话北欧比特币社区传奇人物Martti Malmi。
-    Steve Deng, Matrix chief scientist of AI, was a panelist joining early bitcoin developer, Martti Malmi at the Global Cutting-edge Forum hosted by ChainDD and TMTPOST,  
+    6.6	
+    MATRIX+矩阵财经团队参加杭州GBLS展会，MATRIX商业生态建设高级副总裁John Zhu发表了名为“MATRIX—Enabler of the Blockchain Era”的主题演讲，会上MATRIX团队荣获“最佳技术奖”
+    The MATRIX AI Network and MATRIX financial teams participated in the Hangzhou GBLS exhibition. John Zhu, Senior Vice President of MATRIX in charge of business ecosystem development, gave a talk "MATRIX: Enabler of the Blockchain Era." The event organizers also awarded the MATRIX team was the "best technology prize".
 
-    7.4-7.11
-    HADAX交易大赛，有效参与人数为2250。
-    2250 participants joined the competition on HADAX.
+    杭州GBLS展会的视频短片，即时与MATRIX用户互动
+    Video clip of Hangzhou GBLS exhibition of the team interacting with the MATRIX community.
 
-    知币双龙会活动，知币社区发起MAN讨论话题，共有接近8000篇文章，14万    回帖，关注话题粉丝数目接近1000人。
-    MATRIX AI Network was a strong topic in the Zhibi Shuanglong community, with almost 8,000 posts, 140,000 replies between 1,000 followers.
-        
-    7.6
-	MATRIX “一带一路”项目受到海外著名金融智库Devex高度评价。
-    Renowned economic development think tank, Devex, wrote about MATRIX AI Network’s role in the Belt and Road Initiative. 
+    ASK MATRIX视频直播，针对群内用户问题进行即时解答
+    We continued our Ask MATRIX live broadcast, with weekly responses to user questions from the group.
 
-    7.9
-    万点财经对MATRIX CEO陶鸥进行采访。
-    Van Economic interviewed Owen Tao, the CEO of MATRIX. 
+    6.8
+    MATRIX CEO 陶鸥先生介绍项目短视频
+    A short video intro to the MATRIX project by Mr. Owen Tao, CEO of MATRIX.
 
-    MATRIX AI Network 被加密货币知名杂志21 Cryptos Magazine 评选为六月TOP 5明星项目第一名，力压BAY, BNB, ADA等项目。
-    21 Cryptos Magazine ranked MATRIX AI Network NO.1 of Star Projects Top5 in June, beating out other projects like BAY, BNB and ADA.
+    6.15
+    Devex对MATRIX CEO陶鸥进行采访，总部位于美国华盛顿特区的Devex是一家全球媒体平台，为全球数以百万计的用户提供服务
+    Devex, an international trade and development focused global media outlet headquartered in Washington, D.C., interviewed Owen Tao, CEO of MATRIX about our work on Belt and Road Initiative projects. 
 
+    6.18
+    荷兰区块链领域大V Crypto Lark采访了MATRIX CEO Owen Tao及首席AI科学家Steve Deng。Crypto Lark认为，MATRIX将在一带一路项目中扮演重要角色，其技术和不断壮大的合作伙伴值得大家关注
+    Crypto Lark, a well-known Dutch blockchain influencer interviewed Owen Tao, CEO of MATRIX, and Steve Deng, a Chief AI Scientist.
 
-    7.11
-    彭博社(Bloomberg)对MATRIX CEO Owen Tao进行采访。
-    Anthony Lacavera interviewed CEO Owen Tao for “Beyond Innovation” on Bloomberg, expected in October. 
+    6.20
+    牛市财经记者对MATRIX CEO陶鸥进行专访。牛市财经是一家拥有百万社群流量的财经媒体，专注于区块链行业内最新动态
+    A reporter from News.One, a financial media outlet with millions readers focused on advances in the blockchain industry interviewed Owen Tao, CEO of MATRIX.
 
-    7.12	
-    36氪对MATRIX团队战略合作副总裁朱凯东进行专访，深入探讨MATRIX 中AI与区块链的结合。
-    John Zhu, VP of Strategic Partnerships was interviewed by 36Kr, exploring MATRIX’s integration of AI and blockchain.
+    6.22
+    一带一路张部长莅临MATRIX办公室，问候社群成员
+    Minister Zhang from the Belt and Road Initiative visited one of MATRIX’s offices in Beijing to greet our community.
 
-    7.13
-    MATRIX官网设计大赛进行社区公开投票。
-    Opened community voting to select the best website design for the MATRIX official site.
-    7.18-7.20
-	国家会议中心-链动世界，引爆未来 峰会参展，陶总演讲，MATRIX获快马奖。
-    Owen Tao delivered a talk, Blockchain Accelerating the Future at the Beijing National Convention Center, bringing home the Rising Star Reward.
-
-    7.20
-    新华社、人民网及中新社三家中央媒体对MATRIX邓老师进行专访。
-    Xinhua News Agency, People’s Daily Online and China News Service all interviewed Steve Deng.
-
-    MATRIX官网设计大赛结果公布。
-    Announced the finalists for of MATRIX website design contest. 
-
-    7.28
-	MATRIX团队受邀参加土耳其伊斯坦布尔区块链大会，组织当地社群见面会。
-    Leaders from MATRIX participated in the Samurai Signals Blockchain Summit in Istanbul, Turkey; also joining a meet-and-greet with the local blockchain community.  
-    7.31
-    MATRIX CTO李庆华受邀参加《信息技术 区块链和分布式账本技术 参考架构》国家标准启动会。
-    Bill Li, CTO of MATRIX was an expert delegate at the “Establishing a Reference Architecture Information Technology, Blockchain and Distributed Ledger Technology” Conference. 
-
+    6.27
+    MATRIX公司集体团建活动
+    MATRIX held its first company wide team building retreat.
 
 ### 社区建设
 ### Community Building
 
-    7.1-7.30
-    主要社区成员增长：
-    Growth of the MATRIX online community
+    6.1~6.30
+    国际社区KOL选拔竞争激烈，目前选出KOL的国家有俄罗斯，英国，越南，澳大利亚，韩国，土耳其，荷兰，英国，德国，巴西，法国，新加坡，阿拉伯
+    The competition between KOLs to become a regional community lead is intensifying. We’re currently working with KOLs in Russia, Britain, Vietnam, Australia, South Korea, Turkey, the Netherlands, Germany, Brazil, France, Singapore and Saudi Arab.
 
-				   	   新增数目		    总数量		
-    整体社区            new member      overall
-    Community 			40374			99635		
-    Telegram			31115			58494		
-    Twitter 			2232			18329		
-    Reddit				178         	5429		
+    6.12
+    制定社区管理的积分体系和智能周报系统，能够有效的跟踪各国社区的工作情况
+    The team established an analytics framework and weekly reporting system for community support to track growth and engagement in various countries.
 
-    各地区KOL发布文章情况：
-    Articles from KOL in different communities 
-    越南社区KOL：24  日本社区KOL：36
-    Vietnam: 24        Japan: 36
-    俄罗斯社区KOL：57  土耳其社区：24
-    Russia: 57          Turkey: 24
+    6.13
+    选定土耳其KOL，Sertac先生当选MATRIX土耳其社区的KOL 
+    Mr. Sertac was selected as the KOL for the MATRIX community in Turkey.
+
+    6.21
+    MATRIX将参加7月底由土耳其社区KOL主办的MAN Turkey Meetup 
+    The MATRIX team will participate in a MAN Meetup in Istanbul, hosted by Mr. Sertac and the Turkish community at the end of July.
+
+    6.28
+    日语版的商业白皮书和技术白皮书已由日本社区KOL自发翻译完成，将于7月初面向大众
+    Japanese versions of the business and technical white papers were translated by our Japanese KOL, and will be released at the beginning of July.
+
+### 战略生态
+### Strategic Ecosystem
 
