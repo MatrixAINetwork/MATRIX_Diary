@@ -120,17 +120,17 @@
     主要社区成员增长：
     Growth of the MATRIX online community
 
-					新增数目		总数量		
-整体社区            new member      overall
-Community 			40374			99635		
-Telegram			31115			58494		
-Twitter 				2232			18329		
-Reddit				178         	5429		
+				   	   新增数目		    总数量		
+    整体社区            new member      overall
+    Community 			40374			99635		
+    Telegram			31115			58494		
+    Twitter 			2232			18329		
+    Reddit				178         	5429		
 
-各地区KOL发布文章情况：
-Articles from KOL in different communities 
-越南社区KOL：24  日本社区KOL：36
-Vietnam: 24        Japan: 36
-俄罗斯社区KOL：57  土耳其社区：24
-Russia: 57          Turkey: 24
+    各地区KOL发布文章情况：
+    Articles from KOL in different communities 
+    越南社区KOL：24  日本社区KOL：36
+    Vietnam: 24        Japan: 36
+    俄罗斯社区KOL：57  土耳其社区：24
+    Russia: 57          Turkey: 24
 
