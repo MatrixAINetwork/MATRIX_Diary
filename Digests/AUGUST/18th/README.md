@@ -18,3 +18,13 @@ Proof-of-Stake (100% annual staking rates)
 - [TELEGRAM (ENG) ](https://t.me/SodacoinTelegram)
 - [TWITTER](https://twitter.com/coinsoda)
 - [FACEBOOK](https://www.facebook.com/sodacoincoinsodaexchange)
+
+![](https://i.imgur.com/xc92uXK.jpg)
+
+![](https://i.imgur.com/aDovVEo.jpg)
+
+![](https://i.imgur.com/EJc1xAE.jpg)
+
+![](https://i.imgur.com/3e3g5cj.jpg)
+
+![](https://i.imgur.com/wYeAfVi.jpg)
