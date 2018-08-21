@@ -97,3 +97,22 @@ Now Available
 
 
 ![](https://i.imgur.com/P8bRIbF.png)
+
+You can distribute the link any method (Crypto & Apple Product)
+ 
+The draw can be over ahead of schedule in case the required amount of ETH is collected (i.e. the equivalent of the product value at the moment the draw is launched).
+
+The winner will receive a winning notification into his account. Our representative will contact you to confirm the delivery address.🚀✅
+
+We remind that this action is limited, and is made only for you to understand the principle of the Ethlus service - how can you draw crypto and coins.
+
+Attention! If you want to participate in Apple product, register ONLY with real email address, as we will need to contact you.
+
+Wanna try your luck? Join today!
+
+Ethlus.io - The first legit lottery based on smart contracts that allows you to win any crypto coins or tokens.
+
+FAQ https://ethlus.io/faq/
+
+Live Support & Offers - Telegram @ethlus ONLY
+
