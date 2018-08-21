@@ -46,3 +46,35 @@ Hence the probability of winning is ⅓  for A and B and  ⅙ for C and D.
 ![](https://i.imgur.com/ZUNAa8s.jpg)
 
 
+In this case, the probability of winning is ¼ for everyone - A, B, C, D.
+
+Once the draw is over, we transfer the collected ETH to the seller except for a certain commission fee and the won cryptocurrency to the winner. 
+
+
+The draw of Ethereum is held through a Smart contract. This means it’s absolutely transparent, so you can monitor every step - from the very beginning till the moment the winning is transferred to the winner. 
+
+We hold all other cryptocurrencies till the end of the draw; then they are automatically transferred to the winner. 
+ 
+The user who has launched the draw gets the collected amount to his ETH wallet. 
+
+
+What cryptocurrency can you draw? At the moment it’s ✅
+
+- Ripple (XRP)
+- Bitcoin
+- Ethereum
+However, we’ll be adding other popular cryptocurrencies. So watch for updates!
+
+What do you need to use our service?
+
+Install Metamask, sign up, and that’s it! ✅
+You can participate in the already running draws or launch a new one. 
+
+Are you already excited? Then join and win! ✅
+
+Still got questions? We’re here to answer them.
+
+Do we support mobile devices?  
+
+Unfortunately no. Our project requires the installation of MetaMask, therefore it’s impossible to launch a draw or to participate in the already existing one via a mobile device.
+
