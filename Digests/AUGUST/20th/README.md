@@ -21,3 +21,14 @@ Next, you choose the draw type.
 2. The Safety Draw is held only if 3 ETH is collected, otherwise, you receive back your XRP while all other participants receive back ETH they’ve invested. If you choose the Safety Draw you should pay a small commission fee (e.g. 7% of 1000 XRP, that equals 70 XRP).
 
 The winner is drawn at random through a Smart contract, but you can select the winner choose mode.
+
+![](https://i.imgur.com/k3pMzn2.jpg)
+
+
+1)  Bid dependent. The more a participant invests, the higher his chances of winning are. 
+
+
+- A invests 1 ETH
+- B invests 1 ETH
+- C invests 0.5 ETH
+- D invests 0.5 ETH
