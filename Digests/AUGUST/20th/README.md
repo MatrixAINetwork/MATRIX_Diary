@@ -33,7 +33,7 @@ The winner is drawn at random through a Smart contract, but you can select the w
 - C invests 0.5 ETH
 - D invests 0.5 ETH
 
-
+![](https://i.imgur.com/EOxBgWJ.jpg)
 
 Hence the probability of winning is ⅓  for A and B and  ⅙ for C and D. 
 2) Bid independent. All the participants have equal chances of winning regardless of the invested amount. 
@@ -42,3 +42,7 @@ Hence the probability of winning is ⅓  for A and B and  ⅙ for C and D.
 - B invests 1 ETH
 - C invests 0.5 ETH
 - D invests 0.5 ETH
+
+![](https://i.imgur.com/ZUNAa8s.jpg)
+
+
