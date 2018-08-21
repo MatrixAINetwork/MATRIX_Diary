@@ -78,3 +78,19 @@ Do we support mobile devices?
 
 Unfortunately no. Our project requires the installation of MetaMask, therefore it’s impossible to launch a draw or to participate in the already existing one via a mobile device.
 
+### 🔥 We’d like to welcome our new members, and tell about something special we’ve got for Ethlus members only!🚀  Smiley Smiley Smiley
+
+Our team wants to show how our service works and give you a unique chance to win Original Apple products.
+
+
+How will it work? 
+
+We will draw Apple products every two weeks. To participate you should do the following: 
+- Sign up on Ethlus.io via Metamask.io ✅
+- Enter a draw with a suitcase icon ✅
+- Make at least 0.007 (~2$ Now) ETH bid ✅
+- Maximum bid now is 0.035 ETH (~10$ Now)✅
+
+We will hold a draw in two weeks to announce you the lucky winner! 
+
+Now Available 
