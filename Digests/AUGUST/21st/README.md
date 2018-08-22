@@ -16,3 +16,15 @@ Airchain Onepager:
 ![](https://i.imgur.com/dZzm8UE.jpg)
 
 
+#### Links and Resources
+
+- Website: https://airchain.network/ 
+
+- Whitepaper: https://airchain.network/docs/the-airchain-whitepaper-v3.pdf 
+
+- Telegram: https://t.me/AirchainNetwork_chat 
+
+- Medium: https://medium.com/@airchainnetwork
+
+- Twitter: https://twitter.com/airchainnetwork
+
