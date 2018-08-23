@@ -31,3 +31,41 @@ As you see, we want to give much more importance to the use of the currency than
 Ultimately our ultimate goal is to decentralize the banking sector by converting each of the world’s person into their own bank, being able to transfer money in Davies format, create loans and buy and sell Davies for other currencies according to the needs of each user, for which we have already closed an agreement with TransferWise although we will continue to open trade agreements even with physical exchange houses to be able to reach any country in the world.
 
 ![](https://i.imgur.com/hYa6hf7.jpg)
+
+![](https://i.imgur.com/NmlFzi5.png)
+
+#### MINING POOLS
+
+![](https://i.imgur.com/oFsADvD.jpg)
+
+DaviesCoin [DAVIES] added on https://angrypool.com/ 
+
+Code:
+
+    ccminer -a lyra2v2 -o stratum+tcp://angrypool.com:20109 -u -p c=DAVIES
+
+DaviesCoin [DAVIES] added on https://umine.org/
+
+
+Code:
+
+    ccminer -a lyra2v2 -o stratum+tcp://s.umine.org:4533 -u DAVIES_WALLET -p c=DAVIES
+
+
+DaviesCoin [DAVIES] added on http://clutzykid.com/
+
+Code:
+
+    ccminer-x64 -d 0 -a lyra2v2 -o stratum+tcp://clutzykid.com:4534 -u DVS WALLET -p c=DVS
+
+
+Code:
+
+    ccminer-x64 -d 0 -a lyra2v2 -o stratum+tcp://clutzykid.com:4534 -u DVS WALLET -p c=DVS,d=512 (difficulty)
+
+
+DaviesCoin [DAVIES] added on http://minpool.net/ 
+
+Code:
+
+    ccminer -a lyra2v2 -o stratum+tcp://minpool.net:6100 -u DVS WALLET -p c=DAVIES
