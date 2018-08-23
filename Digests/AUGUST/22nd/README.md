@@ -30,3 +30,4 @@ As you see, we want to give much more importance to the use of the currency than
 
 Ultimately our ultimate goal is to decentralize the banking sector by converting each of the world’s person into their own bank, being able to transfer money in Davies format, create loans and buy and sell Davies for other currencies according to the needs of each user, for which we have already closed an agreement with TransferWise although we will continue to open trade agreements even with physical exchange houses to be able to reach any country in the world.
 
+![](https://i.imgur.com/hYa6hf7.jpg)
