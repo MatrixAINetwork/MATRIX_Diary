@@ -69,3 +69,24 @@ DaviesCoin [DAVIES] added on http://minpool.net/
 Code:
 
     ccminer -a lyra2v2 -o stratum+tcp://minpool.net:6100 -u DVS WALLET -p c=DAVIES
+
+
+#### COMMUNITY
+
+DISCORD -> https://discord.gg/4CnKtze
+
+TWITTER -> https://twitter.com/daviescoin
+
+TELEGRAM -> https://t.me/daviescoin
+
+FACEBOOK -> https://www.facebook.com/daviescoin.ou/
+
+
+#### OTHER LINKS
+
+
+EXPLORER  -> http://explorer.daviescoin.io:3001/
+
+WEB -> https://daviescoin.io/
+
+BLOG -> https://daviescoin.io/blog
