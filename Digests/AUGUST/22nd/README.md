@@ -90,3 +90,8 @@ EXPLORER  -> http://explorer.daviescoin.io:3001/
 WEB -> https://daviescoin.io/
 
 BLOG -> https://daviescoin.io/blog
+
+
+#### ROADMAP
+
+![](https://i.imgur.com/4kyUtTJ.jpg)
