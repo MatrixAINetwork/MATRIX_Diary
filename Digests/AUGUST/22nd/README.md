@@ -84,8 +84,7 @@ FACEBOOK -> https://www.facebook.com/daviescoin.ou/
 
 #### OTHER LINKS
 
-
-EXPLORER  -> http://explorer.daviescoin.io:3001/
+EXPLORER -> http://explorer.daviescoin.io:3001/
 
 WEB -> https://daviescoin.io/
 
