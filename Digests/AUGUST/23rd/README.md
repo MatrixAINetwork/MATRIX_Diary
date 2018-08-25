@@ -92,3 +92,17 @@ Our conclusion is that the technology is not mature enough for the moment but we
 - [TELEGRAM ](http://t.me/xcashglobal)
 
 - [DISCORD](https://discord.gg/4CAahnd)
+
+
+#### GLOBAL NETWORK
+
+
+ To support the X-CASH Network, we are setting up dedicated servers with high available bandwidth all over the world. 
+
+In addition to the nodes run by the users, they will ensure a fast synchronization of the blockchain and guarantee low latencies for all users from day one. 
+
+This consists of a 3-phase deployment that we will perform over the next months. 
+
+While the map below summarizes our current live servers, we hope to cover geographically 95% of the countries by the end of 2018.
+
+[LIST OF ALL REMOTE NODES](https://x-cash.org/remotenodes)
