@@ -79,3 +79,16 @@ Despite being more focused on successfully launching the first version of X-CASH
  
 •Include X-CASH in an existing protocol: We are also carrying some thought about implementing X-CASH into a more developed blockchain network. ERC20 contracts as other standards on the Ethereum blockchain could be interesting but are not viable at the moment, because they still do not address scalability. Similarly, we have been watching closely what solutions EOS is offering because they could offer some answers to the challenges we are facing. 
 Our conclusion is that the technology is not mature enough for the moment but we keep running parallel experiences and will revise our position accordingly, should any significant changes happen.
+
+
+#### Links and Resources
+
+- [WEBSITE](https://x-cash.org/)
+
+- [BLOCK EXPLORER](https://explorer.x-cash.org/)
+
+- [MINING POOL](http://minexcash.com/)
+
+- [TELEGRAM ](http://t.me/xcashglobal)
+
+- [DISCORD](https://discord.gg/4CAahnd)
