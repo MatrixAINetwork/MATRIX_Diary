@@ -8,7 +8,9 @@ The QRL will be the first decentralized cryptocurrency which is implemented from
 
 The project has grown significantly over the course of 2017, led by myself, a core dev team, ancillary devs and a post-quantum cryptographer. We have added to that a marketing manager and small communications team.
 
-#### 
+#### Featureset
+
+
 We will ship with the following featureset in Q1 2018.
 
 
@@ -21,3 +23,23 @@ We will ship with the following featureset in Q1 2018.
 7. GUI-based webwallet and full block explorer functionality
 8. PQ-token capability out of the box — creating tokens on the QRL chain is now functional.
 9. PQ-secure data stamping functionality out of the box.
+
+
+#### Links and Resources
+
+- Whitepaper: https://github.com/theQRL/Whitepaper
+
+We now have translations in Japanese, Russian, Chinese, German, French, Turkish, Spanish, & Vietnamese on our 
+
+- Website: http://theqrl.org
+- Discord: https://discord.gg/BheKAZb
+- GitHub: https://github.com/theQRL
+- Medium: https://medium.com/the-quantum-resistant-ledger
+- Email: info@theqrl.org
+- Twitter: https://twitter.com/qrledger
+- FAQ: https://theqrl.org/faq/
+- CMC: https://coinmarketcap.com/assets/quantum-resistant-ledger/
+- Bittrex: https://bittrex.com/Market/Index?MarketName=BTC-QRL 
+- UpBit: https://upbit.com/exchange?code=CRIX.UPBIT.BTC-QRL
+- Subreddit: www.reddit.com/r/QRL / top: www.reddit.com/r/QRL/top/
+- YouTube: https://www.youtube.com/channel/UCZl6N10P9LNpYkrMwWYtK1w
