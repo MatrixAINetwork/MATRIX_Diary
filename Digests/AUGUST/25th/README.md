@@ -29,3 +29,33 @@ This is the task set by the Extremium team - to help investors receive a stable 
 ![](https://i.imgur.com/dah8eHh.png)
 
 ![](https://i.imgur.com/gnQnHet.png)
+
+
+#### Pre-sale
+
+
+The pre-sale will last 20 days from the 1th of October 2018 to
+the 20th of October 2018. This is best time to purchase tokens at
+the cheapest price: $0.5 per token.
+
+
+
+#### Public sale
+
+
+The public sale will last 40 days from the 1st of November 2018 to
+the 10th of December 2018. The price starts from $1.00 per token and
+will increase each round, to the final price of $2.00 per token.
+
+
+#### Links and Resources
+
+- [Website](https://extremium.io/)
+
+- [Whitepaper ](https://extremium.io/whitepaper.pdf)
+
+- [Facebook](https://www.facebook.com/extremium)
+
+- [Twitter](https://twitter.com/extremium_io)
+
+- [Telegram](https://t.me/joinchat/AAAAAE6l3BQyE1F8c6OIVg)
