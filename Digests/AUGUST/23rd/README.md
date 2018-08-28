@@ -1,6 +1,6 @@
 ## [ANN][AIRDROP]X-CASH - Global Payments | Cryptonight v7 | Fast.Secured.Low-cost. 
 
-
+#### INTRODUCTION
 X-CASH is a cryptocurrency built on Monero v7 with the aim to become a standard in digital payment and transaction settlement. We believe privacy is very important when it comes to managing personal finances, but at the same time, banks and institutions need to know the source of the funds for KYC purposes. Therefore, we plan on leaving the users the choice of whether or not they want their transaction to be public. 
 
 
