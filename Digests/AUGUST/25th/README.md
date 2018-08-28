@@ -18,3 +18,14 @@ This is the task set by the Extremium team - to help investors receive a stable 
 
 
 ![](https://i.imgur.com/Dzkv52T.png)
+
+
+![](https://i.imgur.com/cy3vsI0.png)
+
+![](https://i.imgur.com/Pk1DYq6.png)
+
+![](https://i.imgur.com/BY4YiN7.png)
+
+![](https://i.imgur.com/dah8eHh.png)
+
+![](https://i.imgur.com/gnQnHet.png)
