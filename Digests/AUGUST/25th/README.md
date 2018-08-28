@@ -15,3 +15,6 @@ In the modern world, when cryptocurrencies have been integrated into many sphere
 However, because of the high volatility and unpredictability of price movements, only a few investors are able to properly manage assets, and often bear losses. Therefore, the most urgent question currently has been: “How do I invest in cryptocurrency and get a stable and guaranteed income, which will not depend on the current price in the market and recent news?”
 
 This is the task set by the Extremium team - to help investors receive a stable and regular profit, without delving into the technical details of market forecasting. This task is undertaken by our Enhanced Self-Organizing Incremental Neural Network, which allows our investors to receive passive income and stop worrying about Bitcoin price.
+
+
+![](https://i.imgur.com/Dzkv52T.png)
