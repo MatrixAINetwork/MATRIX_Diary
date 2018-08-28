@@ -1,11 +1,14 @@
 ### [ANN] QRL - Announcing the Quantum Resistant Ledger
 
+#### Introduction
+
 Quantum Resistant Ledger (QRL) has the launch window: mid-Q1 2018!
 
 The QRL will be the first decentralized cryptocurrency which is implemented from the outset to be resistant to both classical and quantum computing attack. It uses a different system of cryptography to bitcoin (and all other altcoins) known as XMSS, which is a hash-based digital signature scheme, and provably quantum-resistant.  The ledger will be the first to use quantum-resistant signatures on a blockchain, which provides an ultra secure store of value in the event of a sudden advance in quantum computing (rendering bitcoin, ethereum etc vulnerable to attack). The initial aim of the project is to establish a functional and secure blockchain on which more technology can be built, such as the Ephemeral post-quantum secure data channels.
 
 The project has grown significantly over the course of 2017, led by myself, a core dev team, ancillary devs and a post-quantum cryptographer. We have added to that a marketing manager and small communications team.
 
+#### 
 We will ship with the following featureset in Q1 2018.
 
 
