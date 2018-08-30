@@ -22,7 +22,41 @@ Also, being more stretched, people are also to be able to divide their goods.
 
 #### ROADMAP
 
+
 ![](https://i.imgur.com/myhb25W.jpg)
 
 
-#### PREMINE USAGE
+
+
+#### WEBSITE LINK
+
+https://www.sharingmarketcoin.com/
+
+
+#### DISCORD LINK
+
+https://discord.gg/jdwMYu4
+
+
+#### TWITTER LINK
+
+https://twitter.com/SharingCoin
+
+
+#### GITHUB LINK
+
+https://github.com/sharingmarketcoin/sharingmarketcoin/releases/tag/v1.0
+
+
+#### WALLET LINK
+
+ Win32 : https://github.com/sharingmarketcoin/sharingmarketcoin/releases/download/v1.0/smk-qt-win32.zip
+
+ Win64 : https://github.com/sharingmarketcoin/sharingmarketcoin/releases/download/v1.0/smk-qt-win64.zip
+
+ Linux : https://github.com/sharingmarketcoin/sharingmarketcoin/releases/download/v1.0/smk-qt-linux.tar.gz
+
+
+#### EXCHANGE LINK
+
+Cryptobridge : https://wallet.crypto-bridge.org/market/BRIDGE.SMK_BRIDGE.BTC
