@@ -24,3 +24,5 @@ Also, being more stretched, people are also to be able to divide their goods.
 
 ![](https://i.imgur.com/myhb25W.jpg)
 
+
+#### PREMINE USAGE
