@@ -119,3 +119,28 @@ This allows a high level of anonymity in cryptocurrency transactions. You can th
 
 
 ![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fimage.ibb.co%2Fg9KDU7%2Fcn03.png&t=592&c=nB6YukcWs_OIWQ)
+
+
+#### How does this compare to other anonymous solutions?
+Ring signatures originate from the work of Rivest et al. in 2001 and the implementation in CryptoNote relies in particular on Fujisaki and Suzuki's work on traceable ring signatures. There are two other anonymity implementations currently available or in development. One is ZeroCoin/ZeroCash's use of zero-knowledge proofs. The others are based on gmaxwell's CoinJoin idea (such as mixing services for Bitcoin or the altcoin Darkcoin).
+
+##### 1. Comparison with ZeroCoin and ZKP-based approaches:
+You can read about ZeroCoin and zero-knowledge proofs (ZKP) here. The ZK environment allows an anonymity set that includes everyone in the network because the validity of an output can be proven without knowing the corresponding public key until it is spent. The largest risk is that this is recent research-level cryptography that hasn't been subjected to years of cryptanalysis, so exploits may emerge down the road. Ring signatures are much simpler and more mature, with many peer-reviewed papers published over more than a decade.
+
+Other issues with ZKP include the RSA private key used to initiate the accumulator, which must be trusted to be destroyed by the generating party. It also obscures the entire economy, not just sender/receiver identities. If the ZK system is compromised, then an attacker can continuously spend coins that don't exist using false proofs. This damage is hidden from everybody due to total blinding and consequently at any given time it's not possible to know if the network has already been compromised. There is a tradeoff between these inherent risks and the maximal anonymity set provided by ZKP. CryptoNote aims for a different balance through the dual layers of privacy provided by one-time keys and ring signatures.
+
+##### 2. Comparison with CoinJoin-based approaches:
+XMR is more qualitatively similar to mixing implementations like CoinJoin. The differences arise in the departure from the Bitcoin protocol, which allows ETNXP to use new cryptography to provide decentralized and trustless mixing of superior quality. The critical problem with mixing services is the need to trust the operators. As an example, blockchain.info's mixer gives the following disclaimer: "However if the server was compromised or under subpoena it could be force to keep logs. If this were to happen although you haven't gained any privacy you haven't lost any either."
+
+The CoinJoin-inspired Darkcoin performs mixing with selected "masternodes" since it still uses ordinary signatures that can be mapped one-to-one. The motivation is that a randomly selected node is less likely than a single service to exhibit bad faith (such as keeping logs) . In practice, a few VPS companies host the vast majority of nodes and this approach relies on the integrity and good behavior of these nodes. ETNXP's more fundamental cryptographic approach doesn't have these vulnerabilities and the quality of anonymity is much higher.
+
+ETNX's ring signatures are also far more secure and convenient than CoinJoin because they mix outputs not transactions. This means a transaction doesn't involve waiting around for other senders to mix with. Nor is a user restricted to mixing only if others are sending the same amount. Arbitrary amounts can be sent at any time without anyone else's participation. This feature makes a timing analysis of the blockchain useless.
+
+#### Overview of a transaction
+Bob decides to spend an output, which was sent to the one-time public key. He needs Extra (1), TxOutNumber (2), and his Account private key (3) to recover his one-time private key (4).
+
+When sending a transaction to Carol, Bob generates its Extra value by random (5). He uses Extra (6), TxOutNumber (7) and Carol's Account public key (Cool to get her Output public key (9).
+
+In the input Bob hides the link to his output among the foreign keys (10). To prevent double-spending he also packs the Key image, derived from his One-time private key (11).
+
+Finally, Bob signs the transaction, using his One-time private key (12), all the public keys (13) and Key Image (14). He appends the resulting Ring Signature to the end of the transaction (15).
