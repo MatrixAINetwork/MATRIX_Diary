@@ -22,3 +22,24 @@
 #### ROADMAP
 
 ![](https://ip.bitcointalk.org/?u=https%3A%2F%2Ffivestarminingnetwork.com%2Fassets%2Fimages%2Froadmap.png&t=592&c=hSTd4YD-ZQY9iA)
+
+
+#### Links and Resources
+
+★ [Website](https://fivestarminingnetwork.com/) 
+
+★ [Whitepaper](https://fivestarminingnetwork.com/wp-content/uploads/2018/07/Whitepaper-Fivestarminingnetwork.pdf)
+
+★ [Instagram](https://www.instagram.com/fivestarminingnetwork/)
+
+
+★  [Reddit](https://www.reddit.com/user/FiveStarMining)
+
+★  [Twitter](https://twitter.com/FiveMining)
+
+★ [Facebook](https://www.facebook.com/Fivestarminingnetwork)
+
+
+★ [Blog](https://medium.com/@FiveStarMining) 
+
+★ [Telegram](https://t.me/fivestarminingnetwork) 
