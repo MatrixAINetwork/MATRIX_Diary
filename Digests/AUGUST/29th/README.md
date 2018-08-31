@@ -81,3 +81,41 @@ Electronero is created with high level of privacy in mind, setting Ring Confiden
 Electronero utilizes the power of a distributed peer-to-peer consensus network, every transaction is cryptographically secured. Individual accounts have a 26 word mnemonic seed displayed when created, which can be written down to back up the account and account files are encrypted with a passphrase to ensure they are worthless if stolen.
 
 
+#### Additional Specifications
+
+As we prepare for the upcoming hard fork we must add important parameters to the API and secure the blockchain from double spend attack. The network is poised for growth and our recent updates were successful in production. We're implementing new technology in our full stack mobile application, known as zk-PARKS, which will be the technology behind the usages of Electronero parking and Electronero smart contracts. This is the best way I can describe zk-PARKS is in the implementation behind the voting methods employed during the use of electronero smart contracts and parking powered by zero knowledge proofs theory. Through the use of zero-knowledge proofs, a method by which one party (the prover Bob) can prove to another party (the verifier Alice) that she knows a value x, without conveying any information apart from the fact that she knows the value x. Something otherwise concealed through cryptography. Many parties may be involved through participation in public groups. In the example, only Bob and Alice have proof.
+
+In our example, Bob the Founder orders contract, and receives zero knowledge proof. Receives a contract profile with a link to invite participants. Many users join and have the opportunity to interact with the Contract. Knowing that it's an environment built around zero-knowledge proofs only Bob and Alice would know if Bob or Alice participated in the contract through verifiable blockchain proof.
+
+We're making use of a new protocol! zk-PARKS, which will be the technology behind the usages of Electronero parking and Electronero smart contracts. This is the best way I can describe zk-PARKS is in the implementation behind the voting methods employed during the use of electronero smart contracts and parking powered by zero knowledge proofs theory. Through the use of zero-knowledge proofs, a method by which one party (the prover Bob) can prove to another party (the verifier Alice) that she knows a value x, without conveying any information apart from the fact that she knows the value x. Something otherwise concealed through cryptography. Many parties may be involved through participation in public groups. In the example, only Bob and Alice have proof.
+
+In our example, Bob the Founder orders contract, and receives zero knowledge proof. Receives a contract profile with a link to invite participants. Many users join and have the opportunity to interact with the Contract. Knowing that it's an environment built around zero-knowledge proofs only Bob and Alice would know if Bob or Alice participated in the contract through verifiable blockchain proof
+
+The acronym zk-PARKS stands for “Zero-Knowledge Private Interactive Argument of Knowledge,” and refers to a proof construction where one can prove possession of certain information, e.g. a secret key, without revealing that information, and without any interaction between the prover and verifier.
+
+#### Electronero Pulse is Based on CryptoNote Technology
+#### What is CryptoNote?
+CryptoNote is the technology that allows creation of privacy-centric cryptocurrencies. You can visit their website at cryptonote.org. The level of anonymity provided by CryptoNote isn't possible with Bitcoin code base by design. Bytecoin (BCN) was the CryptoNote reference implementation, and Monero (XMR) based their sources on BCN. Electronero Pulse (ETNXP) is based on XMR's code.
+
+Two of the main features of CryptoNote are ring signatures that mask sender identities by mixing and one-time keys that make transactions unlinkable. Their combined effect gives a high degree of anonymity without any extra effort on the part of the user.
+
+Unlike Bitcoin, your funds are not held in the address you give out to others. Instead, every time you receive a payment it goes to an unlinkable address generated with random numbers. When you decide to spend the funds in that one-time address, the amount will be broken down and the components will be indistinguishable from identical outputs in the blockchain.
+
+For example if 556.44 ETNXP are sent, the protocol will break it down into 500 + 50 + 6 + 0.4 + 0.04 and a ring signature will be performed with other 500's, 50's, 6's, 0.4's, and 0.04's in the blockchain. Unlike the "CoinJoin" mixing method, CryptoNote mixes outputs not transactions. This means no other senders need to be participating with you at the same time or with the same amounts. Any arbitrary amount sent at any time can always be rendered fundamentally indistinguishable (a mathematical proof is given in the white paper).
+
+The degree of anonymity is also a choice rather than decided by the protocol: do you want to be hidden as one among five or one among fifty? The size of the signature grows linearly as O(n+1) with the ambiguity so greater anonymity is paid for with higher fees to miners.
+
+Ring signatures are explained below. Reproduced from CryptoNote:
+
+A normal signature looks like this. There's only one participant, which allows one-to-one mapping.
+
+![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fimage.ibb.co%2FhdZrGn%2Fcn01.png&t=592&c=vl2hw4VR6JhhaA)
+
+A ring signature obscures identities because it only proves that a signer belongs to a group.
+
+![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fimage.ibb.co%2FbWmGhS%2Fcn02.png&t=592&c=QwRn2w31bxXzOg)
+
+This allows a high level of anonymity in cryptocurrency transactions. You can think of it as decentralized and trustless mixing.
+
+
+![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fimage.ibb.co%2Fg9KDU7%2Fcn03.png&t=592&c=nB6YukcWs_OIWQ)
