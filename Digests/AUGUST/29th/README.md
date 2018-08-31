@@ -144,3 +144,6 @@ When sending a transaction to Carol, Bob generates its Extra value by random (5)
 In the input Bob hides the link to his output among the foreign keys (10). To prevent double-spending he also packs the Key image, derived from his One-time private key (11).
 
 Finally, Bob signs the transaction, using his One-time private key (12), all the public keys (13) and Key Image (14). He appends the resulting Ring Signature to the end of the transaction (15).
+
+
+![](https://ip.bitcointalk.org/?u=http%3A%2F%2Fimage.ibb.co%2Fkrhdwn%2Fcryptonote_transaction.png&t=592&c=DZ90w77dol2HSg)
