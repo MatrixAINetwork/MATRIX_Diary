@@ -29,4 +29,16 @@
 
 #### Social Media Channels
 
-- **[DISCORD](https://discord.gg/WrxZUtu)**
+[DISCORD](https://discord.gg/WrxZUtu)
+
+[Twitter](https://twitter.com/birakecom) 
+
+[Facebook](https://facebook.com/birakecom) 
+
+[Telegram](https://t.me/birakecom) 
+
+[Reddit](https://www.reddit.com/r/birakecom)
+
+[Linkedin](https://www.linkedin.com/company/birake-com/)
+
+[Github](https://github.com/birake)
