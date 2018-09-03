@@ -106,3 +106,28 @@ Q1-2020
 
 Continuous evolution on the whole project
 Continue to donate to charitable associations
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F439431910121275392%2F470221099754323999%2FIMG_20180721_212510_107.jpg&t=592&c=LA7I6mOIJikUjQ)
+
+150M To charity Foundation
+
+-50M Company reserved additional issues
+
+-50M Marketing and operating
+
+-55M Advisors
+
+-70M Team
+
+-70M Lawyer, accountant, company registration
+
+-55M Development
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F439431910121275392%2F470220989540728872%2FIMG_20180721_212524_153.jpg&t=592&c=lTImP2eIO8MJsQ)
+
+[Windows 32 bit](https://github.com/Globycoin/glbcore/releases/download/1.0.0.0/Windows32bit.zip) | [Windows 64 bit](https://github.com/Globycoin/glbcore/releases/download/1.0.0.0/Windows64bit.zip) | [Linux/Ubuntu 64 bit](https://github.com/Globycoin/glbcore/releases/download/1.0.0.0/Ubuntu1604.zip) |  [Mac](https://github.com/Globycoin/glbcore/releases/download/1.0.0.0/Mac.zip) | [How to setup your masternode](https://github.com/Globycoin/glbcore/wiki)
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F439431910121275392%2F470221034239426560%2FIMG_20180721_212519_199.jpg&t=592&c=zwQKvuaUM-DX7A)
