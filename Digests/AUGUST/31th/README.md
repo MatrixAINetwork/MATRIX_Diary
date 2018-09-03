@@ -40,3 +40,69 @@ All investors will help create not only a truly independent charity organization
 - [DISCORD](https://discordapp.com/invite/bE5yubp)
 - [REDDIT](https://www.reddit.com/user/Globycoin)
 - [EXPLORER](https://globycoinexplorer.com/) 
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F439431910121275392%2F470221078711631883%2FIMG_20180721_212513_222.jpg%3Fwidth%3D950%26height%3D116&t=592&c=6okvAeg9waSfkA)
+
+Q3-2018
+
+Website launch
+Coin launch
+Bitcointalk announcements
+Social network pages (Twitter, Facebook, Telegram, Reddit and youtube)
+Bounty and airdrop  
+Masternode presale
+Hire employees
+Exchange listing
+
+
+Q4-2018
+
+Continuous development of the currency, blockchain and wallets
+Exchange listing
+Coinmarketcap or similar listing
+Masternode.pro or similar listing
+Start to donate to charitable associations
+
+
+Q1-2019
+
+Advertising Video Creations
+Advertising events
+Listing on medium exchange.
+Wallet for ios and study for app android 
+Continue to donate to charitable associations
+
+
+Q2-2019
+
+Development of app  “ Civilization”
+Development App for Android and ios
+Implementing payments in Coinpayment
+Search Sponsors and Partners
+Continuous development of the coin and wallets 
+Continue to donate to charitable associations
+
+
+
+Q3-2019
+
+Development of micro loans donation
+Development of Globy gift card
+Study about the Oasis project for Flora and fauna
+Study about  Independent charitable organization
+Continuous development of the coin and wallets
+
+
+
+Q4-2019
+
+Continuous evolution on the whole project
+Search and implement new tecnology
+Continuous development of the coin and wallets
+
+
+
+Q1-2020
+
+Continuous evolution on the whole project
+Continue to donate to charitable associations
