@@ -164,3 +164,12 @@ Continue to donate to charitable associations
 - POS from block 2001
 -  From block 70000 rewards will be 400 instead of 777 , because the speed of block is 60 seconds, instead of 120!
 - Has 5% Premine that will be used for master nodes presale, Bounties, Exchange Listing, master nodes stats site, hire employees and to continue further development for globycoin like upcoming Integrations and much more as Listed in our Roadmap. Thanks for your support!
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F439431910121275392%2F470221047673651211%2FIMG_20180721_212516_621.jpg&t=592&c=4Jhvw3DHVfeXsQ)
+
+[ALTILLY](https://www.altilly.com/market/GLB_BTC)
+
+[BITEXBAY](https://www.bitexbay.com/Home/Orders/index/currency/GLB-BTC.html)
+
+[SHORELINECRYPTO](https://shorelinecrypto.com/market/DOGE-GLB)
