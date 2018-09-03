@@ -131,3 +131,36 @@ Continue to donate to charitable associations
 
 
 ![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F439431910121275392%2F470221034239426560%2FIMG_20180721_212519_199.jpg&t=592&c=zwQKvuaUM-DX7A)
+
+[Mntop.co.in](https://mntop.co.in/)
+
+[Coinmasternodes](https://coinmasternodes.info/)
+
+[Mnode.club](https://mnode.club/)
+
+[Mncn.online](https://mncn.online/coinlist/)
+
+
+#### COIN SPECIFICATIONS
+
+- Coin name : Globycoin
+- coin abbreviation : GLB
+- Algorythm : xevan
+- block reward : 777* to 400 after block 70000,  decrease 5% every 250.000 blocks up to blocks 2.500.000
+- coin supply : 10.000.000.000
+- Block every: 120 seconds * to 60 seconds
+- premine : yes
+- premine percent : 5% = 500.000.000 
+- coinbase maturity: 20
+- number of confirmation: 6
+- minimum coinage : 12 hours
+- pos interest per year % : masternode 75%,pos 25%
+- to run a master node : 150.000 coins
+- minimum transaction: 0.0001/Kb
+- maximum block size : 4 Mb
+- Pos difficult: difficulty retargeting every block 
+ 
+- POW from block 1 to 2000
+- POS from block 2001
+-  From block 70000 rewards will be 400 instead of 777 , because the speed of block is 60 seconds, instead of 120!
+- Has 5% Premine that will be used for master nodes presale, Bounties, Exchange Listing, master nodes stats site, hire employees and to continue further development for globycoin like upcoming Integrations and much more as Listed in our Roadmap. Thanks for your support!
