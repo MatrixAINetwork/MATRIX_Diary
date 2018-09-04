@@ -49,3 +49,23 @@ BLOCK REWARD SPLIT
 - [WINDOWS](https://github.com/SmartCash/smartcash/releases/)
 - [LINUX](https://github.com/SmartCash/smartcash/releases/)
 - [ANDOROID](https://github.com/SmartCash/smartcash/releases/)
+
+
+
+##### PAPER
+Paper wallets are a form of cold wallet and essentially a bearer instrument.
+
+https://paperwallet.smartcash.cc/
+
+
+##### MOBILE (Android)
+https://play.google.com/store/apps/details?id=cc.smartcash.wallet&hl=en
+
+https://play.google.com/store/apps/details?id=com.coinomi.wallet
+
+
+##### Links and Resources
+
+[FAQ](https://smartcash.freshdesk.com/support/home)|[WEBSITE](https://smartcash.cc/)|[TWITTER](http://twitter.com/scashofficial)|[REDDIT](http://reddit.com/r/smartcash)|[FORUM](http://forum.smartcash.cc/)|[DISCORD](https://discord.gg/BDUh8jr)|[EXPLORER](http://explorer3.smartcash.cc/)|[TELEGRAM](https://bit.do/smartcash)|[TWITTER SUPPORT](https://twitter.com/smartcashassist)
+
+
