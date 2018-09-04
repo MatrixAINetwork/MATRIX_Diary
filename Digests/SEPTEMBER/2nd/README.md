@@ -38,7 +38,53 @@ Social Traders will have a section where users can acquire all the necessary mat
 indicators (how to read them, who was your creator, what other indicator is advisable to use, etc), establish your own investment strategies and enjoy this market so rich.
 
 
-#### -SECURITY:
+#### SECURITY:
 This is one of the most important aspects for us. At present, people are very busy with their family and work issues. For this reason, we will have a section of PORTFOLIO ADMINISTRATORS where those who want to        
 invest their money and do not have time to do it on their own, choose among the different portfolios available, which will have labels according to the type of risk, and have all the information that we will recruit    
 about said administrator (personal, fiscal, criminal, address, etc.). In addition to the administrator's data, you will be able to track the movements that are made within said portfolio.
+
+
+#### INTEGRATION
+The integration for us is very important, since we aim to be the first community of Traders in the world. We maintain that the more people come together in a platform to exchange ideas, opinions and content, the   
+more informed we will be to take advantage of the opportunities offered by the market. No one is better than all of us together.
+
+#### Links and Resources
+
+-WEBSITE-
+
+https://socialtraders.cc/
+
+
+                                                                                                                             
+
+-BLOCK EXPLORER-
+                                                                                                                            
+ http://explorer.socialtraders.cc:3001/
+
+
+
+
+-LIGHTPAPER- 
+                                                                                                                                            
+http://socialtraders.cc/WHITEPAPER.pdf
+
+
+
+
+-EXCHANGES-
+
+Will be announced soon
+
+
+
+
+-WALLETS-
+
+https://socialtraders.cc/#wallet
+
+
+
+
+-GITHUB-
+                                                                                                                                                     
+https://github.com/Socialtraders/STRD
