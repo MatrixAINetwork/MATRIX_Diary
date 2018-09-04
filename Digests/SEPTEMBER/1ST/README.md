@@ -69,3 +69,42 @@ https://play.google.com/store/apps/details?id=com.coinomi.wallet
 [FAQ](https://smartcash.freshdesk.com/support/home)|[WEBSITE](https://smartcash.cc/)|[TWITTER](http://twitter.com/scashofficial)|[REDDIT](http://reddit.com/r/smartcash)|[FORUM](http://forum.smartcash.cc/)|[DISCORD](https://discord.gg/BDUh8jr)|[EXPLORER](http://explorer3.smartcash.cc/)|[TELEGRAM](https://bit.do/smartcash)|[TWITTER SUPPORT](https://twitter.com/smartcashassist)
 
 
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FmWScvRe.png&t=592&c=cCYVJCsiHP6sHA)
+
+Official pool with 0% fee
+
+•   https://eu-mine.smartcash.cc
+
+•   https://us-mine.smartcash.cc
+
+•   https://asia-mine.smartcash.cc
+
+Community pool 
+
+•   https://us-1.smartcashpool.cc/
+
+•   http://smart.idcray.com/
+
+•   http://www.lycheebit.com/
+
+•   http://pool.bosshash.com/
+
+•   http://smartcash.smartpool.cc/
+
+•   http://smart.capacitypools.com/
+
+•   http://superpool.biz/
+
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FaH2w8ni.png&t=592&c=t-xe6WcM3JoYjw)
+
+
+
+•   Cryptopia
+
+•   HitBTC
+
+•   CoinExchange
+
+•   Stocks.Exchange
