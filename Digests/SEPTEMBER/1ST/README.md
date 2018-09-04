@@ -39,3 +39,13 @@ BLOCK REWARD SPLIT
 
 - 30%:MINERS/SMARTREWARDS/SMARTNODES
 - 70%:SMARTHIVE/HIVETEAMS
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FyQtL6PH.png&t=592&c=aXbeJj7cfPDo3A)
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FzTYmTN1.png&t=592&c=BO7WtMno7u0Vtg)（[WEB WALLET](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FzTYmTN1.png&t=592&c=BO7WtMno7u0Vtg)）
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FKedif9E.png&t=592&c=8T-jPjRBWQg7fg)
+
+- [MAC OS](https://github.com/SmartCash/smartcash/releases/)
+- [WINDOWS](https://github.com/SmartCash/smartcash/releases/)
+- [LINUX](https://github.com/SmartCash/smartcash/releases/)
+- [ANDOROID](https://github.com/SmartCash/smartcash/releases/)
