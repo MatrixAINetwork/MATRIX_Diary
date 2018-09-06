@@ -15,3 +15,18 @@ P2P port: 39797 RPC port: 39798
 #### PROFIT DIAGRAM
 
 ![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fc.radikal.ru%2Fc25%2F1806%2F2a%2F97dd047664c1.jpg&t=592&c=xv6JM5dheBb6EA)
+
+
+#### ROAD MAP
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fa.radikal.ru%2Fa17%2F1806%2Fba%2Fc3d390abbc86.png&t=592&c=c3Hva-nBgbelgQ)
+
+
+#### Links and Resources
+
+- [WEBSITE](http://www.lightpaycoin.org/)
+- [WHITEPAPER](http://www.lightpaycoin.org/blank-c1vw1)
+- [BLOCK EXPLORER](http://80.211.202.181:3001/)
+- [GITHUB](https://github.com/lpcproject/LightPayCoin/)
+- [MASTERNODE SETUP GUIDE](https://github.com/lpcproject/lpcinstall)
+- 
