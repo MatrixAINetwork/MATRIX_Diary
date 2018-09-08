@@ -34,3 +34,5 @@ Don't have enough collateral for a full node? Use our trusted shared service and
 - Masternode Requirement -   1,000 AGDN
 - Zerocoin - Enabled
 - Governance - Enabled
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FYtWamCz.png&t=592&c=ud35JiJlZUycoA)
