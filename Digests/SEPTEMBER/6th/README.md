@@ -60,3 +60,35 @@ https://github.com/SwapCash/peepmasternode
 #### Temporary BlockExplorer
 
 https://minpool.net/explorer/PMN
+
+
+#### POW Phase (Block 1 - 200,000)
+
+
+Start Block Finish Block  Reward 
+0             1           Premine 
+2            100          0 
+100        100,000       1.5 
+100,000    200,000       150 
+
+
+Based from the above POW Phase table, during the swap period the reward perblock is 1.5 PMN. The actual reward will happen after block 100,000 which is 150 PMN/block. The POW will end at block 200,000 
+
+
+#### POS Phase (500 coins/block after block 3,000,000)
+
+
+
+Start Block  Finish Block   POS (25%) Masternode (75%)   All Reward  Period (Approx) 
+1             100              0        0                     0            1 day 
+100          100,000          0.5      1.5                    2           83 days 
+100,000      500,000          850      2550                   3400        11 months 
+500,000      1,000,000        600      1800                   2400        1 year, 2 months 
+1,000,000    1,500,000        450      1350                   1800        1 year, 2 months 
+1,500,000    2,000,000        400      1200                   1600        1 year, 2 months 
+2,000,000    2,500,000        350      1050                   1400        1 year, 2 months 
+2,500,000    3,000,000        300      900                    1200        1 year, 2 months 
+3,000,000    Until The End    125      375                    500         15 years, 10 months 
+
+
+Based from the above POS Phase table, during the swap period the reward perblock is 2 PMN. The actual reward will happen after block 100,000 which is 3400 PMN/block. The Masternode reward is 75% from the POS block.
