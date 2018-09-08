@@ -92,3 +92,84 @@ Start Block  Finish Block   POS (25%) Masternode (75%)   All Reward  Period (App
 
 
 Based from the above POS Phase table, during the swap period the reward perblock is 2 PMN. The actual reward will happen after block 100,000 which is 3400 PMN/block. The Masternode reward is 75% from the POS block.
+
+#### THE MASTERNODE ROI
+
+
+To be fair to all our Peepcoin holder and Masternode investor, the actual reward will take effect after block 100,000 which will happen after 83 days approximately. Below is the Return on investment calculation for the masternode running.
+
+
+Active Masternode     ROI days 
+5                     1 day, 17 hours 
+100                   34 days 
+300                   102 days 
+500                   170 days 
+1000                  340 days 
+
+
+#### CONTINUOS DEVELOPMENT
+
+
+- WHITEPAPER DOWNLOAD HERE:
+https://drive.google.com/file/d/1Th2oKuHN9XidDiBiAOoR6VawMQdpl46I/view
+
+
+- OFFICIAL WEBSITE:
+http://www.peepmasternode.com
+
+
+#### ROADMAP 2018
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2Fn3AuX9M.jpg&t=592&c=peDQfIwflxl_VA)
+
+
+#### Wallet Downloads
+
+- Win 32 & 64 bit - https://github.com/SwapCash/peepmasternode/releases/download/v1.0.5/PeepMasternode-Win32-64-qt.zip
+- MAC - https://github.com/SwapCash/peepmasternode/releases/download/v1.0.5/PeepMasternode-Qt-mac.dmg
+
+
+#### How to build your wallet (Linux)
+
+1.Install Dependencies 
+
+Code:
+
+    sudo apt-get update
+    sudo apt-get dist-upgrade
+    sudo apt-get install libtool autotools-dev autoconf pkg-config 
+    sudo apt-get install software-properties-common && sudo add-apt-repository ppa:bitcoin/bitcoin 
+    sudo apt-get update 
+    sudo apt-get install libminiupnpc-dev libdb4.8-dev libdb4.8++-dev libevent-dev
+    sudo apt-get install nano ntp unzip git build-essential libssl-dev libboost-all-dev libqrencode-dev aptitude
+    sudo aptitude install miniupnpc libminiupnpc-dev
+    sudo apt-get install libgmp3-dev
+
+
+2.Start Build Wallet
+
+Code:
+
+    git clone https://github.com/SwapCash/peepmasternode.git
+    cd swapcash/src/leveldb
+    chmod 755 build_detect_platform
+    make clean
+    make libleveldb.a libmemenv.a
+    cd ..
+    make -f makefile.unix
+    strip peepmasternoded
+    sudo cp peepmasternoded /usr/local/bin
+    ./peepmasternoded -daemon
+
+
+3.PeepMasternode configuration file located at ~/.PeepMasternode/PeepMasternode.conf
+ 
+Code:
+
+    rpcuser=rpc_login
+    rpcpassword=password
+    rpcallowip=127.0.0.1
+    listen=1
+    server=1
+    txindex=1
+    daemon=1
