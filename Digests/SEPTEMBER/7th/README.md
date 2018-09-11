@@ -81,3 +81,30 @@ In case if we are in the middle of the referral mining program, when the factor 
 Description of the coins storage rule
 
 The coins are kept in accounts by analogy with bank accounts. The accounts are numbered from 0 sequentially. The zero account number is for system account, to which initially 1 bln coins were issued. To create new account you need to send to the network special transaction ACCOUNT_CREATE where you need to specify a public key of the account owner and unnecessary characteristic “name of account” (a line with length up to 40 bytes). It is advisable to specify the name to check the correctness of the account number input when sending the payment.
+
+
+#### Transactions
+
+Minimal transaction size of coins transfer from account to account is 114 bytes. 
+Minimal size can be obtained if there is one recipient and no description of the payment details. 
+Transaction in text format JSON looks as follows:
+
+Code:
+
+    {
+       "Type": 110,
+      "Version": 0,
+      "Currency": 0,
+      "FromID": 1,
+      "OperationID": 40167,
+      "To":
+       [
+           {
+               "ID": 2,
+               "SumTER": 100,
+               "SumCENT": 0
+           }
+       ],
+      "Description": "test",
+      "Sign": "B39C39D91136E92C5B9530ABC683D9A1AF51E27382AFC69EA3B1F14AD7C4CDBE46D36BD743F2B4AE7760F8DDE706D81FB8201ABBF27DABF6F1EC658FE432C141"
+    }
