@@ -54,3 +54,30 @@ Commission: free of charge
 - Twitter: https://twitter.com/terafoundation
 - Telegram: https://web.telegram.org/#/im?p=@terafoundation
 - Discord: Common: https://discord.gg/CvwrbeG RUS: https://discord.gg/dzSGKyR
+
+#### Road map
+
+- Smart-contracts – July (?), 2018
+- Internal voting system for adding new functions – August, 2018
+- Decentralized messenger – September, 2018
+- Decentralized stock exchange – Q4 2018
+- Android/iOS Wallets – Q1 2019
+- Sharding and increase in transaction speed to 1 million per second – Q2 2019
+
+#### Referral mining program
+
+In the first year of the network work (when the number of the block is in the range from 2 mln to 30 mln), the referral program of mining works. If the miner indicated an adviser in his wallet, then he gets about twice the size of the reward, and his adviser receives a one-time reward. Thus, at the beginning of the action of the referral program, the emission is roughly tripled.
+
+Technically, an adviser is an account number. Any account can become an adviser, provided that it was created more than 1 mln blocks ago (i.e. approximately 12 days).
+In order to smooth out the emission curve, the award for referral mining is multiplied by a factor that assumes a value from 1 to 0. The factor takes the value equal to 1 at the beginning of the program and smoothly changes to 0 at the end of the program (up to 30 millionth block).
+
+An example of calculating coins emission:
+Let's assume that now the capacity of the network equals to 30 bits in the hash of the block, and it is 1 billion of unallocated coins in total, and we are at the very beginning of the mining program, then one award equals to 900/100 = 9 coins.
+
+Coins will be distributed as follows: 2 awards to the miner, 1 reward to the adviser, and in total there will be deducted 27 coins from the system account (3*9 = 27).
+
+In case if we are in the middle of the referral mining program, when the factor is 0.5, the emission takes the following values ​​in the example above: 1.5 of reward to the miner, 0.5 of reward to the adviser, and in total there will be deducted 18 coins from the system account (2*9 = 18) .
+
+Description of the coins storage rule
+
+The coins are kept in accounts by analogy with bank accounts. The accounts are numbered from 0 sequentially. The zero account number is for system account, to which initially 1 bln coins were issued. To create new account you need to send to the network special transaction ACCOUNT_CREATE where you need to specify a public key of the account owner and unnecessary characteristic “name of account” (a line with length up to 40 bytes). It is advisable to specify the name to check the correctness of the account number input when sending the payment.
