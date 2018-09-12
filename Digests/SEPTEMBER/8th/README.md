@@ -68,3 +68,17 @@ you are done
 If you use BATMINER ports, see all statistics In BatMiner profile  https://my.batminer.network. You can monitor your equipment, expand your network or invite other users into your network.
 
 For mining Masari exclusively, specify your MSR wallet in your user name and one of the bottom 5 ports in the miner settings (2222 - 9999). In this case you use our system as a common mining pool, all statistics will be shown for your wallet address.
+
+
+#### Registration from Android devices
+
+You can download it from Aptoide (NOT GOOGLE)
+https://batminer-mobile-mining-farm.en.aptoide.com
+
+OR
+
+Download store Aptoide: https://aptoide.com
+
+type “BATMINER” in aptoide and download it from there. 
+
+For mining press pick axe, then go to section “Profile” and register an account.
