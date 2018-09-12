@@ -86,7 +86,9 @@ The coins are kept in accounts by analogy with bank accounts. The accounts are n
 #### Transactions
 
 Minimal transaction size of coins transfer from account to account is 114 bytes. 
+
 Minimal size can be obtained if there is one recipient and no description of the payment details. 
+
 Transaction in text format JSON looks as follows:
 
 Code:
@@ -108,3 +110,22 @@ Code:
       "Description": "test",
       "Sign": "B39C39D91136E92C5B9530ABC683D9A1AF51E27382AFC69EA3B1F14AD7C4CDBE46D36BD743F2B4AE7760F8DDE706D81FB8201ABBF27DABF6F1EC658FE432C141"
     }
+
+Note: transaction in the example above has a length of 118 bytes.
+
+Text representation is packed in binary format + 12 bytes POW are added (for protection against DDoS).
+Payment details should be not more than 200 bytes. Actually the size is limited to a maximum of 65535 bytes, but 200 bytes is the size which can be seen by users’ wallets, if the length is more, they cut it.
+The longer the transaction length, the more calculation POW must be done to receive competitive transaction and its inclusion in block.
+
+Important change in update 11.07.2018:
+
+Added hash of accounts table in blockchain. This is implemented through a special transaction type 117
+
+Code:
+
+    {
+      "Type": 117,
+     "BlockNum": 956290,
+     "Hash": "75455839E961080C73F1883B7758D27FC0FA63C5F599D37CD63BFC08AED1943A"
+    }
+ 
