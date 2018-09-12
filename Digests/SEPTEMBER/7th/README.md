@@ -129,3 +129,15 @@ Code:
      "Hash": "75455839E961080C73F1883B7758D27FC0FA63C5F599D37CD63BFC08AED1943A"
     }
  
+
+#### Starting the wallet
+
+Wait until the synchronization is complete - the green message Synchronization complete should appear. Below, when you start first time, two fields will appear: name and adviser. Enter the code of the adviser (if you have one), enter account name and click the Create button. After about 8 seconds, the account creation transaction will fit in the blockchain and you will have an open account where you can mine the coins.
+
+WARNING: To connect to the network, you must have a static IP address and an open port of 30000.
+
+
+Solving connection problems (when no start sync)
+1. Check the presence of a direct ip-address (order from the provider)
+2. Check if the port is routed from the router to your computer
+3. Check the firewall (port must open on the computer)
