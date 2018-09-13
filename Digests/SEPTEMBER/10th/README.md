@@ -82,3 +82,14 @@ iOS: Under review (beta testing done)
 Bootstrap: https://github.com/digiwage/digiwage/releases/download/1.2.0/bootstrap.dat
 
 
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FHOBRYCm.png&t=592&c=emVx80UVyWUGaA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FS3Yuf2r.png&t=592&c=MZvcswhuHOLwjw)
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2Fna4IhVG.png&t=592&c=Myeexje75TQf_g)
+
+CRYPTOBRIDGE: https://wallet.crypto-bridge.org/market/BRIDGE.WAGE_BRIDGE.BTC
+
+BLOCKNET: https://www.blocknet.co/coins
+
