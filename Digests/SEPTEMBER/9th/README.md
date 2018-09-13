@@ -54,3 +54,20 @@ NIO token price in realtime:
 Coinmarketcap: https://coinmarketcap.com/currencies/autonio/
 
 Coincodex: https://coincodex.com/crypto/autonio/
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fsteemit-production-imageproxy-upload.s3.amazonaws.com%2FDQmWRa46YdMU1sctaUvL6aXiEZmUWQoEEQx7j3QkpjuVJLV&t=592&c=-R6Z9UW8aHmmlA)
+
+Updates:
+
+
+1. NIO tokens distribution complete.
+
+2. Exchange trading has begun.
+
+3. Application development underway with 30+ indicators for a self hosted dapp, targeted to be relased by November 2017 end.
+
+4. Working on adding to more exchanges.
+
+5. The entire Autonio code base will be made open source after code is hardened and cleaned post application release for Mobile as well as Desktop platforms.
+
