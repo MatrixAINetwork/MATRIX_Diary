@@ -54,3 +54,31 @@
 ![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2F9d83yki.png&t=592&c=9TvK2saC7YZu5Q)
 
 ![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2Fa6O9oiU.png&t=592&c=F59joZRAJiSmBA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FZOtBJgt.png&t=592&c=gNVG0u7lCh8ZUA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FMKUNGDc.png&t=592&c=1N6hCUTjvehgeA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FTMWyfCW.png&t=592&c=PPSFo4a8P7CllA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FFSktYCQ.png&t=592&c=orcN-sGTIfqCvg)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FX3pVOQ2.png&t=592&c=4iQVB6O86cf9pg)
+
+Windows 64 bit: https://github.com/digiwage/digiwage/releases/download/1.2.0/digiwage-1.2.0-win64-setup-unsigned.exe
+
+Windows 32 bit: https://github.com/digiwage/digiwage/releases/download/1.2.0/digiwage-1.2.0-win32-setup-unsigned.exe
+
+LInux 64 bit: https://github.com/digiwage/digiwage/releases/download/1.2.0/digiwage-1.2.0-x86_64-linux-gnu.tar.gz
+
+Linux 32 bit: https://github.com/digiwage/digiwage/releases/download/1.2.0/digiwage-1.2.0-i686-pc-linux-gnu.tar.gz
+
+MacOSX: https://github.com/digiwage/digiwage/releases/download/1.2.0/digiwage-1.2.0-osx-unsigned.dmg
+
+Android: https://play.google.com/store/apps/details?id=com.digiwagewallet
+
+iOS: Under review (beta testing done)
+
+Bootstrap: https://github.com/digiwage/digiwage/releases/download/1.2.0/bootstrap.dat
+
+
