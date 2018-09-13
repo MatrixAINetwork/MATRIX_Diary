@@ -39,3 +39,18 @@ Autonio will be powered by NIO tokens, which are ERC 20 tokens secured by the Et
 ### [READ WHITEPAPER](https://auton.io/uploads/Autonio%20White%20Paper%20v1.1.0.pdf)
 
 
+### Token Circulation Details:
+
+- Official Ethereum ERC 20 smart contract: https://etherscan.io/token/0x5554e04e76533e1d14c52f05beef6c9d329e1e30
+
+- Official Website: https://auton.io
+- Total supply:  220,466,789 NIO
+- (There will never be any new NIO tokens created.)
+- Circulating Supply: 65,828,135 NIO 
+- Remaining tokens 154,638,654 NIO are locked in for 6+ months, which will be used to pay the developers to motivate to build upon the existing Autonio platform.
+
+NIO token price in realtime:
+
+Coinmarketcap: https://coinmarketcap.com/currencies/autonio/
+
+Coincodex: https://coincodex.com/crypto/autonio/
