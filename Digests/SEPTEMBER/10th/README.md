@@ -45,3 +45,12 @@
 - [Cold Wallet MN Guide](https://github.com/digiwage/digiwage_install/blob/master/digiwage_guide.txt)
 
 - [Single MN Setup Video Tutorial](https://www.youtube.com/watch?v=2bMhxwISZHs)
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FzD6vbYr.png&t=592&c=T-miAWjY3bdHnA)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FORYljao.png&t=592&c=FeqBao1mE3F7jQ)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2F9d83yki.png&t=592&c=9TvK2saC7YZu5Q)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2Fa6O9oiU.png&t=592&c=F59joZRAJiSmBA)
