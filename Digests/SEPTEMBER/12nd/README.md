@@ -23,3 +23,32 @@ We are working on NXBPay to become an international cryptocurrency gateway, our 
 - PoW ending: In ~ ca. 330 Days
 - Masternode requirements: 1 000 000 NXB
 - Maturity: 111 Confirmations
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fpreview.ibb.co%2FePk3zz%2Fwallet.png&t=593&c=W4e7hGd1mdQ6wg)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fimage.ibb.co%2Fik1XsK%2Fwin_wallet.png&t=593&c=K88eNsxNjvhZuA)
+
+- [https://forum.nxboost.com/download/nxboost-qt-win.zip](https://forum.nxboost.com/download/nxboost-qt-win.zip)
+
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fimage.ibb.co%2FntCoXK%2Flin_wallet.png&t=593&c=CyzQaybh2zw0dA)
+
+- [https://forum.nxboost.com/download/nxboost-linux-cli.zip](https://forum.nxboost.com/download/nxboost-linux-cli.zip)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fpreview.ibb.co%2FcBCVCK%2Flinks.png&t=593&c=TPw-dHnSZAw6Ug)
+
+- [Website](https://nxboost.com/)
+- [Blockchain Explorer](http://107.181.174.194:3001/)
+
+##### Official pool
+[Official Mining Pool](https://pool.nxboost.com/)
+
+
+##### Exchange
+[Bitstorage Finance](https://bitstorage.finance/market/NXB-BTC)
+
+##### Chat 
+- [Telegram for miners](https://t.me/nxb_miners)
+- [Telegram General En](https://t.me/nxb_traders_en)
+- [Telegram News Chanell](https://t.me/NXB_project)
