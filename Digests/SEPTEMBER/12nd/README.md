@@ -52,3 +52,26 @@ We are working on NXBPay to become an international cryptocurrency gateway, our 
 - [Telegram for miners](https://t.me/nxb_miners)
 - [Telegram General En](https://t.me/nxb_traders_en)
 - [Telegram News Chanell](https://t.me/NXB_project)
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fpreview.ibb.co%2Fk9vK7K%2Froadmap.png&t=593&c=vSeyCcXLRE9Diw)
+
+##### 3 quarter 2018
+
+Blockchain network with QUARK Algo
+
+Bockchain Explorer
+
+Mining Pool
+
+Windows Wallet
+
+Linux Wallet
+
+
+##### 4 quarter 2018
+
+Website modification 
+
+MAC Wallet
+
+NXBPay payment gateway
