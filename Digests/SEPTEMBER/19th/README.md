@@ -109,3 +109,8 @@ Staking Packages
 
 - Discord: [https://discord.gg/VXDsTpX](https://discord.gg/VXDsTpX)
 - Twitter: [https://twitter.com/ShardBitEx](https://twitter.com/ShardBitEx)
+
+#### ShardBit - Roadmap
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FxtPX2VP.png&t=593&c=DXV1T07Q3icdxA)
+
