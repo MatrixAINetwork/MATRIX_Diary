@@ -14,3 +14,25 @@ We have generated a chain of 10 million sha256 hashes, starting with a server se
 Final Hash: ccd9d795367ef7415e978e7fede17c31409f9b5d587608ae908559c801b562c1
 
 
+#### ShardBit - Specifications
+
+- Name: ShardBits (SHDB)
+- Algorithm (PoW): C11
+- Block Time (PoW/PoS): 90 seconds
+- Total Supply: 2,240,300,000 SHDB
+- Difficulty Retargeting: Every Block
+- Premine: 17.8% (400,000,000 SHDB)
+- P2P Port: 37451 | RPC Port: 37452 
+- Masternode Collateral: 500,000 SHDB
+- Coin Maturity: 24 hours[/size]
+
+#### ShardBit - Features
+
+- ASIC/NiceHash Resistant
+- Nvidia & AMD GPU Mining
+- Instamine Protection
+- Masternode Reward Protection
+- Friendly Masternode Setup
+- Long-Term Development & Support
+- Masternode Dividends from Casino Profit
+
