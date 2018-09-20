@@ -72,3 +72,40 @@ premine’s projected use is as follows:
 
 20,000,000 SHDB (5%) - Bounty Program
 
+#### ShardBit - Presale
+
+As mentioned above in the premine breakdown, we've decided to set aside 
+50,000,000 SHDB for the initial presale distribution. This will be broken down 
+into a series of packages and Masternodes for purchase. Any coins set aside 
+for the presale that are not bought will be added to the bankroll, for use with 
+ShardBet DApps.
+
+Masternode Phases
+
+- Phase One (10 MNs) = 0.3 BTC
+- Phase Two (20 MNs) = 0.4 BTC
+- Phase Three (Inf MNs) = 0.5 BTC
+
+Staking Packages
+
+- Package #1 (10,000 SHDB) = 0.01 BTC
+- Package #2 (50,000 SHDB) = 0.05 BTC
+- Package #3 (100,000 SHDB) = 0.1 BTC
+
+#### ShardBit - External Links
+
+- Website: [ShardBit Website](http://info.shardbet.com/)
+- Github: [ShardBit Github](https://github.com/shardbit-project)
+- Guides/Wiki: [ShardBit Guides/Wiki](https://github.com/shardbit-project/shardbit/wiki)
+- Whitepaper: [ShardBit Whitepaper](https://github.com/shardbit-project/shardbit-whitepaper/blob/master/shardbit-whitepaper.pdf)
+
+- Bounty: [Bounty Campaign](https://bitcointalk.org/index.php?topic=5033173)
+- ShardCrash: [ShardCrash Website](https://shardbet.com/)
+
+- Daemon: [Daemon](https://github.com/shardbit-project/shardbit/releases/download/v1.0.0.0/shardbit-daemon-v1.0.0.0.zip)
+- Linux Wallet: [Linux Wallet](https://github.com/shardbit-project/shardbit/releases/download/v1.0.0.0/shardbit-linux-v1.0.0.0.zip)
+- Windows Wallet: [Windows Wallet](https://github.com/shardbit-project/shardbit/releases/download/v1.0.0.0/shardbit-windows-v1.0.0.0.zip)
+- Mac Wallet: [Mac Wallet](https://github.com/shardbit-project/shardbit/releases/download/v1.0.0.0/shardbit-mac-v1.0.0.0.zip)
+
+- Discord: [https://discord.gg/VXDsTpX](https://discord.gg/VXDsTpX)
+- Twitter: [https://twitter.com/ShardBitEx](https://twitter.com/ShardBitEx)
