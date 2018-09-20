@@ -36,3 +36,39 @@ Final Hash: ccd9d795367ef7415e978e7fede17c31409f9b5d587608ae908559c801b562c1
 - Long-Term Development & Support
 - Masternode Dividends from Casino Profit
 
+#### ShardBit - Block Rewards
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FTNlsyBS.png&t=593&c=MubNL93w_jt-mw)
+
+#### ShardBit - Masternode ROI
+
+![](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2Fd9rEviH.png&t=593&c=Wc-G_I5MgLHAVA)
+
+#### ShardBit - Masternode Dividends
+
+In order to further integrate Masternodes into the ShardBit ecosystem, we've 
+developed a tool that automatically pays out a percentage of all profit earned by the 
+casino to the current active Masternodes. The rate at which this payment occurs 
+has not yet been decided upon, but we expect it to occur frequently enough to create
+ an incentive to hosting an active node. 
+
+#### ShardBit - Premine
+
+Developing the coin, we realized that we’d require a substantial premine 
+(calculated at 400,000,000 SHDB or 17.8%) to fund the bankroll of our initial 
+DApps and in particular support future growth and development as necessary. 
+Regarding the bankroll, we plan to set aside the majority of the coins taken for 
+this purpose, to not be touched by the team throughout. Any coins not sold in 
+the presale will be added to the bankroll. The overall breakdown of the 
+premine’s projected use is as follows:
+
+200,000,000 SHDB (50%) - Platform/DApp Bankroll
+
+50,000,000 SHDB (12.5%) - Presale Distribution
+
+80,000,000 SHDB (20%) - Marketing/Development Costs
+
+50,000,000 SHDB (12.5%) - Developer/Founder Payments
+
+20,000,000 SHDB (5%) - Bounty Program
+
