@@ -12,3 +12,22 @@
 ![](https://i.imgur.com/nCRfFr9.jpg)
 
 
+![](https://i.imgur.com/2m1iPQT.jpg)
+
+![](https://i.imgur.com/cMha7N4.jpg)
+
+
+![](https://i.imgur.com/GCAoRBe.jpg)
+
+### 最佳人气奖
+
+    在社区中，第一名总共获得超过450票，赢得了最佳人气奖，是大家心中的冠军。
+
+![](https://i.imgur.com/G37NywA.jpg)
+
+### 最佳设计奖
+
+    请大家祝贺这位优胜者，最佳设计奖也将是MATRIX官方吉祥物，仍然是Chipman！或许会令人感到震惊，但是在经过MATRIX团队讨论后，大家一致认为Chipman是最优秀的设计，它十分恰当的将MATRIX特性融合到设计之中，并且呈现非常酷的效果。
+
+
+![](https://i.imgur.com/tEbbWsX.jpg)
